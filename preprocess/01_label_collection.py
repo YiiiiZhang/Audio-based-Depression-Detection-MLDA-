@@ -52,7 +52,7 @@ for u_id in tqdm(all_user_list, desc="Processing Users"):
             all_data[u_id] = {
                 'data': {
                     'Raw_data': {
-                        'path': video_path,
+                        'path':  os.path.join(u_id, file),
                         'duration': duration
                     }
                 }
