@@ -199,14 +199,14 @@ if __name__ == "__main__":
     DATA_DIR = Base_path['EXTRACTED_AUDIO_DIR']
     SAVE_DIR = Base_path['TRANSCRIPTION_DIR']
     for label_type in label_type_list:
-        ERROR_JSON = f"../data/{label_type}_Error.json"
-        Finished_JSON = f"../data/{label_type}_Finished.json"
+        ERROR_JSON = f"./data/{label_type}_Error.json"
+        Finished_JSON = f"./data/{label_type}_Finished.json"
 
         os.makedirs(SAVE_DIR, exist_ok=True)
         error_dict = {}
         finished_dict = {}
 
-        data = read_json("../data/full_dataset.json")
+        data = read_json("./data/full_dataset.json")
         user_list = list(data.keys())
         user_list.sort()
         user_list = user_list[len(user_list)//2:]

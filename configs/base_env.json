@@ -1,5 +1,5 @@
 {
-    "RAW_VIDEO_DIR":"/home/vault/empkins/tpD/D02/RCT/raw_data_test",
+    "RAW_VIDEO_DIR":"/home/vault/empkins/tpD/D02/RCT/raw_data",
     "EXTRACTED_AUDIO_DIR":"/home/woody/iwso/iwso192h/MLDA/oringinal_data_test",
     "TRANSCRIPTION_DIR":"/home/woody/iwso/iwso192h/MLDA/Transcription_result_test",
     "FINAL_AUDIO_DIR":"/home/woody/iwso/iwso192h/MLDA/extracted_data_test"
