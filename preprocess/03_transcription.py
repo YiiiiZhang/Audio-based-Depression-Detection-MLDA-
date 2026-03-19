@@ -27,7 +27,6 @@ from collections import Counter
 import time
 
 from utils.utils import read_json, save_json
-os.environ['MODELSCOPE_CACHE'] = '../Model/clearVoice'
 def identify_speakers_by_keywords(enriched_result: List[Dict]) -> Dict[str, int]:
     # Corrected regex: using a single backslash to represent word boundaries
     keywords = [
