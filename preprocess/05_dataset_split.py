@@ -1,6 +1,15 @@
 import json
 import random
 import os
+import sys
+# ==========================================================
+# 0. Add the project root to sys.path to find the 'utils' folder
+# ==========================================================
+current_script_dir = os.path.dirname(os.path.abspath(__file__))
+project_root = os.path.dirname(current_script_dir) # Go up one level to the root directory
+
+if project_root not in sys.path:
+    sys.path.append(project_root)
 from utils.utils import read_json
 
 def stratified_greedy_kfold(grouped_users, k_folds):
@@ -145,19 +154,19 @@ def generate_nested_cv_splits_multi_labels(data, audio_type, k_outer=5, k_inner=
     if save_path:
         with open(save_path, 'w', encoding='utf-8') as f:
             json.dump(output, f, indent=4, ensure_ascii=False)
-        print(f"✅ Nested CV indices saved to {save_path}\n")
+        print(f"Nested CV indices saved to {save_path}\n")
     
     return output
 
 
 # ===== Execution Block =====
 if __name__ == "__main__":
-    json_path = "../data/extracted_full_dataset.json"
+    json_path = "./data/extracted_full_dataset.json"
     full_data = read_json(json_path)
     
     for audio_type in ["Coping", "Training"]:
         # Ensure the directory exists before saving
-        save_dir = f"../data/datasets/{audio_type}"
+        save_dir = f"./data/datasets/{audio_type}"
         os.makedirs(save_dir, exist_ok=True)
         
         save_path = f"{save_dir}/{audio_type}_Split.json"

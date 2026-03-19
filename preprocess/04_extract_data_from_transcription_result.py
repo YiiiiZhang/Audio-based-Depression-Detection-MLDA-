@@ -74,7 +74,7 @@ if __name__ == "__main__":
     config_path = os.path.join(project_root, 'configs', 'base_env.json')
     BASE_CONFIG = read_json(config_path)
     
-    transcription_path = BASE_CONFIG['Transcription_result']
+    transcription_path = BASE_CONFIG['TRANSCRIPTION_DIR']
     origin_audio_path = BASE_CONFIG['EXTRACTED_AUDIO_DIR']
     extracted_audio_path = BASE_CONFIG['FINAL_AUDIO_DIR']
     
