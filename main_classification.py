@@ -97,7 +97,7 @@ def run_single_fold(train_dict, val_dict, label_type, audio_root,args, device, l
 # ====================================================
 # Main Execution Pipeline
 # ====================================================
-def main(label_type, json_path, save_dir,args):
+def main(audio_root,label_type, json_path, save_dir,args):
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
     
     os.makedirs(save_dir, exist_ok=True)
@@ -131,6 +131,7 @@ def main(label_type, json_path, save_dir,args):
                 val_f1, _ = run_single_fold(
                     train_dict=inner_fold["inner_train"], val_dict=inner_fold["inner_val"], 
                     label_type=label_type, args=args, device=device, lr=lr, 
+                    audio_root = audio_root,
                     save_dir=fold_save_dir, run_name=f"in_fold{inner_fold['inner_fold_id']}_lr_{lr}"
                 )
                 inner_f1_scores.append(val_f1)
@@ -142,7 +143,8 @@ def main(label_type, json_path, save_dir,args):
         # --- Outer Final Evaluation (Test) ---
         test_f1, test_acc = run_single_fold(
             train_dict=outer_train, val_dict=outer_test, 
-            label_type=label_type, args=args, device=device, lr=best_lr, 
+            label_type=label_type, audio_root=audio_root,
+            args=args, device=device, lr=best_lr, 
             save_dir=fold_save_dir, run_name="outer_eval"
         )
         
@@ -155,17 +157,17 @@ def main(label_type, json_path, save_dir,args):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument("--model", type=str, default="wav2vec", choices=["mfcc", "wav2vec"])
+    parser.add_argument("--model", type=str, default="mfcc", choices=["mfcc", "wav2vec"])
     parser.add_argument("--audio_type", type=str, default="Training", choices=["Training", "Coping"])
     parser.add_argument("--epochs", type=int, default=30)
     parser.add_argument("--batch_size", type=int, default=32)
     parser.add_argument("--lr", type=float, default=2e-5)
     parser.add_argument("--gpu", type=str, default="0")
     args = parser.parse_args()
-    audio_root = read_json('.configs/base_env.json').get("FINAL_AUDIO_DIR",None)
+    audio_root = read_json('./configs/base_env.json').get("FINAL_AUDIO_DIR",None)
     os.environ["CUDA_VISIBLE_DEVICES"] = args.gpu
     
     for label in ['is_depression', 'is_agitation', 'is_retardation', 'is_HRSD']:
         json_path = f"./data/datasets/{args.audio_type}/{args.audio_type}_Split.json"
         save_dir = f"./Output/{args.model}/{args.audio_type}/{label}_nested"
-        main(label, json_path, save_dir, args)
+        main(audio_root,label, json_path, save_dir, args)

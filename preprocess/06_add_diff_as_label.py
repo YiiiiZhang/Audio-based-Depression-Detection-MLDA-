@@ -2,6 +2,15 @@ import os
 import numpy as np
 import pandas as pd
 from sklearn.model_selection import StratifiedGroupKFold
+import sys
+# ==========================================================
+# 0. Add the project root to sys.path to find the 'utils' folder
+# ==========================================================
+current_script_dir = os.path.dirname(os.path.abspath(__file__))
+project_root = os.path.dirname(current_script_dir) # Go up one level to the root directory
+
+if project_root not in sys.path:
+    sys.path.append(project_root)
 from utils.utils import read_json, save_json
 
 # ==========================================================
@@ -69,7 +78,7 @@ print(f"Merged dataset saved to {save_path}")
 # ==========================================================
 # Phase 2: Create Dataframe and Perform Stratified Group K-Fold
 # ==========================================================
-save_root = './datasets/Diff'
+save_root = './data/datasets/Diff'
 os.makedirs(save_root, exist_ok=True)
 
 # 1. Flatten the nested JSON dictionary into a list for easy conversion to a DataFrame

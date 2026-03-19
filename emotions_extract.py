@@ -6,8 +6,7 @@ from speechbrain.inference.interfaces import foreign_class
 
 # ================= Path Setting =================
 current_script_path = os.path.abspath(__file__)
-current_dir = os.path.dirname(current_script_path)
-project_root = os.path.dirname(current_dir)
+project_root = os.path.dirname(current_script_path)
 
 # Add the project root to the Python search path so we can find 'utils'
 if project_root not in sys.path:
@@ -19,22 +18,42 @@ from utils.utils import read_json, save_json
 # Define the category labels to be recognized
 TARGET_LABELS = ['Coping', 'Training']
 # Output filename
-OUTPUT_FILENAME = "../data/All_Emotion_Results.json"
+OUTPUT_FILENAME = "./data/All_Emotion_Results.json"
 # =================================================
 
 # 1. Load Model (Automatically selects GPU/CPU)
 run_opts = {"device": "cuda"} if torch.cuda.is_available() else {"device": "cpu"}
 print(f"Loading Emotion Recognition Model on {run_opts['device']}...")
 
-# Added `savedir` to route the wav2vec model checkpoints to the specified directory
-classifier = foreign_class(
-    source="speechbrain/emotion-recognition-wav2vec2-IEMOCAP", 
-    pymodule_file="custom_interface.py", 
-    classname="CustomEncoderWav2vec2Classifier",
-    savedir="./Model/wav2vec2_checkpoints", 
-    run_opts=run_opts
-)
-print("Model loaded successfully.")
+# ================= Force Unified Model Path Logic =================
+# The root directory where you want all model files to be centralized
+MODEL_ROOT_DIR = "./Model"
+
+# Record the current working directory to restore it later
+original_cwd = os.getcwd()
+
+# Ensure the target root directory exists and switch to it
+os.makedirs(MODEL_ROOT_DIR, exist_ok=True)
+os.chdir(MODEL_ROOT_DIR)
+
+try:
+    # Load the model while inside the target directory.
+    # This forces both the main checkpoints and the hardcoded HuggingFace
+    # checkpoints to be saved exclusively within the MODEL_ROOT_DIR.
+    classifier = foreign_class(
+        source="speechbrain/emotion-recognition-wav2vec2-IEMOCAP", 
+        pymodule_file="custom_interface.py", 
+        classname="CustomEncoderWav2vec2Classifier",
+        savedir="speechbrain_checkpoints", 
+        run_opts=run_opts
+    )
+    print("Model loaded successfully.")
+finally:
+    # Always restore the original working directory, even if loading fails.
+    # This is crucial so that subsequent relative paths (like ../data/) work correctly.
+    os.chdir(original_cwd)
+# ==================================================================
+
 
 def predict_emotion(wav_path):
     """
@@ -55,12 +74,14 @@ def predict_emotion(wav_path):
 def main():
     # Read path configuration
     # Note: Assumes configs.json is in the project root
-    base_path = read_json("../data/configs.json")
+    config_path = os.path.join(project_root, "configs", "base_env.json")
+    dataset_path = os.path.join(project_root, "data", "extracted_full_dataset.json")
+    base_path = read_json(config_path)
     DATA_DIR = base_path['FINAL_AUDIO_DIR']  # Audio root directory
     
     # Read the full dataset index
-    full_data = read_json("../data/extracted_full_dataset.json")
-    
+    full_data = read_json(dataset_path)
+
     # Used to store the final comprehensive JSON result
     # Structure: {user_id: {label_type: [result_dict, ...]}}
     all_results = {}
