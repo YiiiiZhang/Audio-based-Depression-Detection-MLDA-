@@ -1,0 +1,7 @@
+
+****************************************
+Nested CV Summary for is_retardation:
+True Unbiased Mean F1: 0.5605 ± 0.0708
+True Unbiased Mean Acc: 0.7726
+Folds F1 Details: [0.4807, 0.5484, 0.693, 0.5318, 0.5487]
+****************************************

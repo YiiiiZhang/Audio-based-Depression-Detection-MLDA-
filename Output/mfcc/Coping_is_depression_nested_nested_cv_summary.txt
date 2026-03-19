@@ -1,0 +1,7 @@
+
+****************************************
+Nested CV Summary for is_depression:
+True Unbiased Mean F1: 0.4840 ± 0.0427
+True Unbiased Mean Acc: 0.5046
+Folds F1 Details: [0.431, 0.4711, 0.5617, 0.4835, 0.4726]
+****************************************

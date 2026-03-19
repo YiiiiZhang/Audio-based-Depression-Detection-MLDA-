@@ -1,0 +1,7 @@
+
+****************************************
+Nested CV Summary for is_HRSD:
+True Unbiased Mean F1: 0.5719 ± 0.0935
+True Unbiased Mean Acc: 0.6562
+Folds F1 Details: [0.434, 0.5249, 0.553, 0.7004, 0.6471]
+****************************************

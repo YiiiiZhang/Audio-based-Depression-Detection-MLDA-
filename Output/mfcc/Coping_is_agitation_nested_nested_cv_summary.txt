@@ -1,0 +1,7 @@
+
+****************************************
+Nested CV Summary for is_agitation:
+True Unbiased Mean F1: 0.6053 ± 0.0484
+True Unbiased Mean Acc: 0.6441
+Folds F1 Details: [0.6569, 0.6428, 0.6332, 0.5415, 0.5523]
+****************************************
