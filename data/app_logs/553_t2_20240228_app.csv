@@ -1,0 +1,1037 @@
+timestamp,label,content
+"
+"2024-02-28 13:29:48.992981,start_01,
+"
+"2024-02-28 13:29:59.284710,start_02,553
+"
+"2024-02-28 13:29:59.300952,start_03,
+"
+"2024-02-28 13:32:00.837133,lat_instr_01,
+"
+"2024-02-28 13:32:35.800319,lat_rating_n,2
+"
+"2024-02-28 13:32:47.670069,lat_rating_p,8
+"
+"2024-02-28 13:32:47.686489,fixation_01,
+"
+"2024-02-28 13:32:50.708499,stimulus_01,die Welt
+"
+"2024-02-28 13:32:55.703847,lat_rating_start_01,
+"
+"2024-02-28 13:33:06.024901,lat_rating_n_01,3
+"
+"2024-02-28 13:33:12.010623,lat_rating_p_01,7
+"
+"2024-02-28 13:33:12.026370,fixation_02,
+"
+"2024-02-28 13:33:15.026148,stimulus_02,die Welt
+"
+"2024-02-28 13:33:20.025968,lat_rating_start_02,
+"
+"2024-02-28 13:33:26.796193,lat_rating_n_02,2
+"
+"2024-02-28 13:33:32.066014,lat_rating_p_02,7
+"
+"2024-02-28 13:33:32.081567,fixation_03,
+"
+"2024-02-28 13:33:35.082121,stimulus_03,Selfie
+"
+"2024-02-28 13:33:40.088471,lat_rating_start_03,
+"
+"2024-02-28 13:33:49.492159,lat_rating_n_03,2
+"
+"2024-02-28 13:33:54.877896,lat_rating_p_03,7
+"
+"2024-02-28 13:33:54.893732,fixation_04,
+"
+"2024-02-28 13:33:57.893773,stimulus_04,Freude
+"
+"2024-02-28 13:34:02.893087,lat_rating_start_04,
+"
+"2024-02-28 13:34:09.861016,lat_rating_n_04,0
+"
+"2024-02-28 13:34:14.729479,lat_rating_p_04,9
+"
+"2024-02-28 13:34:14.744849,fixation_05,
+"
+"2024-02-28 13:34:17.744992,stimulus_05,Zukunft
+"
+"2024-02-28 13:34:22.745107,lat_rating_start_05,
+"
+"2024-02-28 13:34:29.664766,lat_rating_n_05,1
+"
+"2024-02-28 13:34:33.116213,lat_rating_p_05,9
+"
+"2024-02-28 13:34:33.131784,fixation_06,
+"
+"2024-02-28 13:34:36.131502,stimulus_06,Selfie
+"
+"2024-02-28 13:34:41.137604,lat_rating_start_06,
+"
+"2024-02-28 13:34:48.157650,lat_rating_n_06,2
+"
+"2024-02-28 13:34:56.793733,lat_rating_p_06,9
+"
+"2024-02-28 13:34:56.809305,fixation_07,
+"
+"2024-02-28 13:34:59.810238,stimulus_07,Freude
+"
+"2024-02-28 13:35:04.809658,lat_rating_start_07,
+"
+"2024-02-28 13:35:10.861172,lat_rating_n_07,1
+"
+"2024-02-28 13:35:15.163716,lat_rating_p_07,9
+"
+"2024-02-28 13:35:15.179293,fixation_08,
+"
+"2024-02-28 13:35:18.179622,stimulus_08,Zukunft
+"
+"2024-02-28 13:35:23.179908,lat_rating_start_08,
+"
+"2024-02-28 13:35:29.066725,lat_rating_n_08,2
+"
+"2024-02-28 13:35:32.519600,lat_rating_p_08,9
+"
+"2024-02-28 13:35:32.535361,fixation_09,
+"
+"2024-02-28 13:35:35.536425,stimulus_09,hoffnungslos
+"
+"2024-02-28 13:35:40.536308,lat_rating_start_09,
+"
+"2024-02-28 13:35:52.290890,lat_rating_n_09,6
+"
+"2024-02-28 13:35:58.477470,lat_rating_p_09,3
+"
+"2024-02-28 13:35:58.492148,fixation_10,
+"
+"2024-02-28 13:36:01.492037,stimulus_10,hoffnungslos
+"
+"2024-02-28 13:36:06.491776,lat_rating_start_10,
+"
+"2024-02-28 13:36:11.144144,lat_rating_n_10,6
+"
+"2024-02-28 13:36:15.346144,lat_rating_p_10,3
+"
+"2024-02-28 13:36:15.361801,fixation_11,
+"
+"2024-02-28 13:36:18.362126,stimulus_11,Ich
+"
+"2024-02-28 13:36:23.361059,lat_rating_start_11,
+"
+"2024-02-28 13:36:45.947284,lat_rating_n_11,6
+"
+"2024-02-28 13:36:50.130366,lat_rating_p_11,4
+"
+"2024-02-28 13:36:50.146104,fixation_12,
+"
+"2024-02-28 13:36:53.145686,stimulus_12,Ich
+"
+"2024-02-28 13:36:58.144118,lat_rating_start_12,
+"
+"2024-02-28 13:37:03.762514,lat_rating_n_12,6
+"
+"2024-02-28 13:37:07.496849,lat_rating_p_12,4
+"
+"2024-02-28 13:37:07.513748,lat_end,
+"
+"2024-02-28 13:37:41.620110,ei_instr_1,
+"
+"2024-02-28 13:38:03.165821,ei_01,"Ich wünschte ich könnte ich selbst sein, aber niemand mag mich, wenn ich es bin."
+"
+"2024-02-28 13:38:10.962535,ei_02,Ich bin es Leid es immer weiter zu versuchen.
+"
+"2024-02-28 13:38:18.432445,ei_03,"Auch wenn ich mein Bestes gebe, scheint es nie genug zu sein."
+"
+"2024-02-28 13:38:26.343224,ei_04,Niemand versteht mich oder versucht es überhaupt erst.
+"
+"2024-02-28 13:38:34.030762,ei_05,"Ich glaube nicht, dass es jemals besser werden wird."
+"
+"2024-02-28 13:38:41.554316,ei_06,Ich fühle mich wertlos.
+"
+"2024-02-28 13:38:49.234306,ei_07,"Wenn ich rede, hört niemand wirklich zu."
+"
+"2024-02-28 13:38:56.698918,ei_08,Ich fühle mich vom Leben betrogen.
+"
+"2024-02-28 13:39:04.498438,ei_09,Ich bin vollkommen alleine.
+"
+"2024-02-28 13:39:12.825379,ei_10,Es gibt keine Hoffnung.
+"
+"2024-02-28 13:39:12.827903,ei_rating_start,
+"
+"2024-02-28 13:39:22.945555,ei_rating_n,7
+"
+"2024-02-28 13:39:26.129205,ei_rating_p,2
+"
+"2024-02-28 13:39:26.145822,ei_end,
+"
+"2024-02-28 13:41:28.135570,training_start,time
+"
+"2024-02-28 13:41:28.147007,training_start,time
+"
+"2024-02-28 13:42:18.430859,training_trial_1,
+"
+"2024-02-28 13:43:04.764997,training_trial_1_end,time
+"
+"2024-02-28 13:43:09.283487,training_trial_2,
+"
+"2024-02-28 13:43:21.214455,training_trial_2_end,time
+"
+"2024-02-28 13:43:26.230037,training_trial_end,
+"
+"2024-02-28 13:43:48.073325,training_base-rating_start,
+"
+"2024-02-28 13:43:52.891318,training_base-rating_n,1
+"
+"2024-02-28 13:43:55.590977,training_base-rating_p,8
+"
+"2024-02-28 13:43:55.607413,training_pg_1,cross
+"
+"2024-02-28 13:44:03.622891,training_pg_01_rating_n_1,1
+"
+"2024-02-28 13:44:06.273048,training_pg_01_rating_p_1,8
+"
+"2024-02-28 13:44:08.872659,training_pg_1_step1_2,time
+"
+"2024-02-28 13:44:11.238844,training_pg_1_step2_2,time
+"
+"2024-02-28 13:44:13.422470,training_pg_1_step3_2,time
+"
+"2024-02-28 13:44:14.655661,coping_train_ng_1end,time
+"
+"2024-02-28 13:44:19.672101,training_pg_01_post-rating_start,time
+"
+"2024-02-28 13:44:24.437596,training_pg_01_rating_n_2,2
+"
+"2024-02-28 13:44:26.604449,training_pg_01_rating_p_2,8
+"
+"2024-02-28 13:44:27.020205,training_pg_2,circle
+"
+"2024-02-28 13:44:32.422469,training_pg_02_rating_n_1,2
+"
+"2024-02-28 13:44:35.605219,training_pg_02_rating_p_1,8
+"
+"2024-02-28 13:44:39.687241,training_pg_2_step1_2,time
+"
+"2024-02-28 13:44:44.154201,training_pg_2_step2_2,time
+"
+"2024-02-28 13:44:47.937265,training_pg_2_step3_2,time
+"
+"2024-02-28 13:44:49.520318,coping_train_ng_2end,time
+"
+"2024-02-28 13:44:54.537097,training_pg_02_post-rating_start,time
+"
+"2024-02-28 13:44:58.536224,training_pg_02_rating_n_2,1
+"
+"2024-02-28 13:45:01.518868,training_pg_02_rating_p_2,8
+"
+"2024-02-28 13:45:01.934116,training_pg_3,polygon
+"
+"2024-02-28 13:45:06.500835,training_pg_03_rating_n_1,1
+"
+"2024-02-28 13:45:08.536204,training_pg_03_rating_p_1,8
+"
+"2024-02-28 13:45:10.133569,training_pg_3_step1_2,time
+"
+"2024-02-28 13:45:13.717258,training_pg_3_step2_2,time
+"
+"2024-02-28 13:45:16.800144,training_pg_3_step3_2,time
+"
+"2024-02-28 13:45:18.083309,coping_train_ng_3end,time
+"
+"2024-02-28 13:45:23.100431,training_pg_03_post-rating_start,time
+"
+"2024-02-28 13:45:25.866848,training_pg_03_rating_n_2,2
+"
+"2024-02-28 13:45:29.684825,training_pg_03_rating_p_2,8
+"
+"2024-02-28 13:45:30.117131,training_pg_4,pentagon
+"
+"2024-02-28 13:45:35.169418,training_pg_04_rating_n_1,2
+"
+"2024-02-28 13:45:38.786478,training_pg_04_rating_p_1,8
+"
+"2024-02-28 13:45:42.902635,training_pg_4_step1_2,time
+"
+"2024-02-28 13:45:45.969284,training_pg_4_step2_2,time
+"
+"2024-02-28 13:45:50.751759,training_pg_4_step3_2,time
+"
+"2024-02-28 13:45:52.535429,coping_train_ng_4end,time
+"
+"2024-02-28 13:45:57.552136,training_pg_04_post-rating_start,time
+"
+"2024-02-28 13:46:00.651991,training_pg_04_rating_n_2,2
+"
+"2024-02-28 13:46:03.836560,training_pg_04_rating_p_2,8
+"
+"2024-02-28 13:46:04.251594,training_pg_5,rectangle2
+"
+"2024-02-28 13:46:07.953005,training_pg_05_rating_n_1,2
+"
+"2024-02-28 13:46:10.619927,training_pg_05_rating_p_1,8
+"
+"2024-02-28 13:46:13.668869,training_pg_5_step1_2,time
+"
+"2024-02-28 13:46:16.685909,training_pg_5_step2_2,time
+"
+"2024-02-28 13:46:20.652328,training_pg_5_step3_2,time
+"
+"2024-02-28 13:46:22.069393,coping_train_ng_5end,time
+"
+"2024-02-28 13:46:27.086332,training_pg_05_post-rating_start,time
+"
+"2024-02-28 13:46:30.452830,training_pg_05_rating_n_2,1
+"
+"2024-02-28 13:46:34.369754,training_pg_05_rating_p_2,9
+"
+"2024-02-28 13:46:34.802223,training_pg_6,hexagon
+"
+"2024-02-28 13:46:40.453953,training_pg_06_rating_n_1,1
+"
+"2024-02-28 13:46:43.171636,training_pg_06_rating_p_1,8
+"
+"2024-02-28 13:46:46.937502,training_pg_6_step1_2,time
+"
+"2024-02-28 13:46:49.687515,training_pg_6_step2_2,time
+"
+"2024-02-28 13:46:54.788242,training_pg_6_step3_2,time
+"
+"2024-02-28 13:46:56.638831,coping_train_ng_6end,time
+"
+"2024-02-28 13:47:01.655298,training_pg_06_post-rating_start,time
+"
+"2024-02-28 13:47:05.272581,training_pg_06_rating_n_2,1
+"
+"2024-02-28 13:47:09.006296,training_pg_06_rating_p_2,9
+"
+"2024-02-28 13:47:09.421793,training_pg_7,triangle
+"
+"2024-02-28 13:47:13.624262,training_pg_07_rating_n_1,1
+"
+"2024-02-28 13:47:16.225177,training_pg_07_rating_p_1,9
+"
+"2024-02-28 13:47:17.574676,training_pg_7_step1_2,time
+"
+"2024-02-28 13:47:20.992192,training_pg_7_step2_2,time
+"
+"2024-02-28 13:47:23.925813,training_pg_7_step3_2,time
+"
+"2024-02-28 13:47:25.242514,coping_train_ng_7end,time
+"
+"2024-02-28 13:47:30.259372,training_pg_07_post-rating_start,time
+"
+"2024-02-28 13:47:33.443917,training_pg_07_rating_n_2,1
+"
+"2024-02-28 13:47:36.546130,training_pg_07_rating_p_2,9
+"
+"2024-02-28 13:47:36.960439,training_pg_8,pentagon
+"
+"2024-02-28 13:47:42.481657,training_pg_08_rating_n_1,1
+"
+"2024-02-28 13:47:46.280905,training_pg_08_rating_p_1,9
+"
+"2024-02-28 13:47:47.714435,training_pg_8_step1_2,time
+"
+"2024-02-28 13:47:50.482220,training_pg_8_step2_2,time
+"
+"2024-02-28 13:47:56.515850,training_pg_8_step3_2,time
+"
+"2024-02-28 13:47:57.816309,coping_train_ng_8end,time
+"
+"2024-02-28 13:48:02.833500,training_pg_08_post-rating_start,time
+"
+"2024-02-28 13:48:05.300057,training_pg_08_rating_n_2,1
+"
+"2024-02-28 13:48:07.817750,training_pg_08_rating_p_2,9
+"
+"2024-02-28 13:48:08.250150,training_pg_9,oval
+"
+"2024-02-28 13:48:11.952527,training_pg_09_rating_n_1,1
+"
+"2024-02-28 13:48:14.401926,training_pg_09_rating_p_1,9
+"
+"2024-02-28 13:48:15.735795,training_pg_9_step1_2,time
+"
+"2024-02-28 13:48:18.086072,training_pg_9_step2_2,time
+"
+"2024-02-28 13:48:20.786430,training_pg_9_step3_2,time
+"
+"2024-02-28 13:48:22.020237,coping_train_ng_9end,time
+"
+"2024-02-28 13:48:27.036978,training_pg_09_post-rating_start,time
+"
+"2024-02-28 13:48:30.440176,training_pg_09_rating_n_2,1
+"
+"2024-02-28 13:48:33.505830,training_pg_09_rating_p_2,9
+"
+"2024-02-28 13:48:33.919690,training_pg_10,rectangle
+"
+"2024-02-28 13:48:37.803556,training_pg_10_rating_n_1,1
+"
+"2024-02-28 13:48:40.753317,training_pg_10_rating_p_1,9
+"
+"2024-02-28 13:48:41.736133,training_pg_10_step1_2,time
+"
+"2024-02-28 13:48:43.736480,training_pg_10_step2_2,time
+"
+"2024-02-28 13:48:46.353274,training_pg_10_step3_2,time
+"
+"2024-02-28 13:48:47.152420,coping_train_ng_10end,time
+"
+"2024-02-28 13:48:52.169726,training_pg_10_post-rating_start,time
+"
+"2024-02-28 13:48:54.818834,training_pg_10_rating_n_2,1
+"
+"2024-02-28 13:48:59.358803,training_pg_10_rating_p_2,9
+"
+"2024-02-28 13:48:59.786231,training_pg_11,rectangle
+"
+"2024-02-28 13:49:03.755502,training_pg_11_rating_n_1,1
+"
+"2024-02-28 13:49:06.955680,training_pg_11_rating_p_1,9
+"
+"2024-02-28 13:49:07.821976,training_pg_11_step1_2,time
+"
+"2024-02-28 13:49:09.905711,training_pg_11_step2_2,time
+"
+"2024-02-28 13:49:11.989456,training_pg_11_step3_2,time
+"
+"2024-02-28 13:49:12.856124,coping_train_ng_11end,time
+"
+"2024-02-28 13:49:17.872778,training_pg_11_post-rating_start,time
+"
+"2024-02-28 13:49:21.222182,training_pg_11_rating_n_2,1
+"
+"2024-02-28 13:49:23.572668,training_pg_11_rating_p_2,9
+"
+"2024-02-28 13:49:24.021738,training_pg_12,rhomb
+"
+"2024-02-28 13:49:29.523275,training_pg_12_rating_n_1,1
+"
+"2024-02-28 13:49:32.123594,training_pg_12_rating_p_1,9
+"
+"2024-02-28 13:49:34.240549,training_pg_12_step1_2,time
+"
+"2024-02-28 13:49:37.424741,training_pg_12_step2_2,time
+"
+"2024-02-28 13:49:41.874627,training_pg_12_step3_2,time
+"
+"2024-02-28 13:49:43.008790,coping_train_ng_12end,time
+"
+"2024-02-28 13:49:48.024808,training_pg_12_post-rating_start,time
+"
+"2024-02-28 13:49:52.824529,training_pg_12_rating_n_2,1
+"
+"2024-02-28 13:49:57.624045,training_pg_12_rating_p_2,9
+"
+"2024-02-28 13:49:58.056559,training_pg_13,square2
+"
+"2024-02-28 13:50:02.275049,training_pg_13_rating_n_1,1
+"
+"2024-02-28 13:50:04.523561,training_pg_13_rating_p_1,9
+"
+"2024-02-28 13:50:05.823044,training_pg_13_step1_2,time
+"
+"2024-02-28 13:50:08.773502,training_pg_13_step2_2,time
+"
+"2024-02-28 13:50:11.956919,training_pg_13_step3_2,time
+"
+"2024-02-28 13:50:12.990421,coping_train_ng_13end,time
+"
+"2024-02-28 13:50:18.007237,training_pg_13_post-rating_start,time
+"
+"2024-02-28 13:50:21.689867,training_pg_13_rating_n_2,1
+"
+"2024-02-28 13:50:24.790408,training_pg_13_rating_p_2,9
+"
+"2024-02-28 13:50:25.222838,training_pg_14,cross
+"
+"2024-02-28 13:50:28.674224,training_pg_14_rating_n_1,1
+"
+"2024-02-28 13:50:31.240760,training_pg_14_rating_p_1,9
+"
+"2024-02-28 13:50:32.923433,training_pg_14_step1_2,time
+"
+"2024-02-28 13:50:35.006637,training_pg_14_step2_2,time
+"
+"2024-02-28 13:50:37.173548,training_pg_14_step3_2,time
+"
+"2024-02-28 13:50:37.989951,coping_train_ng_14end,time
+"
+"2024-02-28 13:50:43.006799,training_pg_14_post-rating_start,time
+"
+"2024-02-28 13:50:45.391339,training_pg_14_rating_n_2,1
+"
+"2024-02-28 13:50:47.390594,training_pg_14_rating_p_2,9
+"
+"2024-02-28 13:50:47.823056,training_pg_15,hexagon
+"
+"2024-02-28 13:50:55.124500,training_pg_15_rating_n_1,1
+"
+"2024-02-28 13:50:57.692054,training_pg_15_rating_p_1,9
+"
+"2024-02-28 13:50:59.875305,training_pg_15_step1_2,time
+"
+"2024-02-28 13:51:02.475960,training_pg_15_step2_2,time
+"
+"2024-02-28 13:51:05.209127,training_pg_15_step3_2,time
+"
+"2024-02-28 13:51:06.125646,coping_train_ng_15end,time
+"
+"2024-02-28 13:51:11.143523,training_pg_15_post-rating_start,time
+"
+"2024-02-28 13:51:14.592577,training_pg_15_rating_n_2,1
+"
+"2024-02-28 13:51:16.943744,training_pg_15_rating_p_2,9
+"
+"2024-02-28 13:51:17.358246,training_pg_16,trapez
+"
+"2024-02-28 13:51:21.508946,training_pg_16_rating_n_1,1
+"
+"2024-02-28 13:51:24.658128,training_pg_16_rating_p_1,9
+"
+"2024-02-28 13:51:25.857386,training_pg_16_step1_2,time
+"
+"2024-02-28 13:51:28.740340,training_pg_16_step2_2,time
+"
+"2024-02-28 13:51:32.273425,training_pg_16_step3_2,time
+"
+"2024-02-28 13:51:33.223444,coping_train_ng_16end,time
+"
+"2024-02-28 13:51:38.240499,training_pg_16_post-rating_start,time
+"
+"2024-02-28 13:51:41.389619,training_pg_16_rating_n_2,1
+"
+"2024-02-28 13:51:43.671543,training_pg_16_rating_p_2,9
+"
+"2024-02-28 13:51:44.087077,training_pg_17,square
+"
+"2024-02-28 13:51:49.053197,training_pg_17_rating_n_1,1
+"
+"2024-02-28 13:51:51.802884,training_pg_17_rating_p_1,8
+"
+"2024-02-28 13:51:53.418308,training_pg_17_step1_2,time
+"
+"2024-02-28 13:51:55.568020,training_pg_17_step2_2,time
+"
+"2024-02-28 13:51:58.467472,training_pg_17_step3_2,time
+"
+"2024-02-28 13:51:59.450761,coping_train_ng_17end,time
+"
+"2024-02-28 13:52:04.468314,training_pg_17_post-rating_start,time
+"
+"2024-02-28 13:52:07.235642,training_pg_17_rating_n_2,1
+"
+"2024-02-28 13:52:09.300164,training_pg_17_rating_p_2,9
+"
+"2024-02-28 13:52:09.682248,training_pg_18,triangle
+"
+"2024-02-28 13:52:14.314862,training_pg_18_rating_n_1,1
+"
+"2024-02-28 13:52:16.400364,training_pg_18_rating_p_1,9
+"
+"2024-02-28 13:52:17.697179,training_pg_18_step1_2,time
+"
+"2024-02-28 13:52:19.813537,training_pg_18_step2_2,time
+"
+"2024-02-28 13:52:22.629438,training_pg_18_step3_2,time
+"
+"2024-02-28 13:52:23.546027,coping_train_ng_18end,time
+"
+"2024-02-28 13:52:28.563486,training_pg_18_post-rating_start,time
+"
+"2024-02-28 13:52:31.145053,training_pg_18_rating_n_2,1
+"
+"2024-02-28 13:52:33.395035,training_pg_18_rating_p_2,9
+"
+"2024-02-28 13:52:33.810517,training_pg_19,rhomb
+"
+"2024-02-28 13:52:37.610273,training_pg_19_rating_n_1,1
+"
+"2024-02-28 13:52:40.310313,training_pg_19_rating_p_1,9
+"
+"2024-02-28 13:52:41.726414,training_pg_19_step1_2,time
+"
+"2024-02-28 13:52:43.776646,training_pg_19_step2_2,time
+"
+"2024-02-28 13:52:45.726287,training_pg_19_step3_2,time
+"
+"2024-02-28 13:52:46.459049,coping_train_ng_19end,time
+"
+"2024-02-28 13:52:51.477249,training_pg_19_post-rating_start,time
+"
+"2024-02-28 13:52:53.842932,training_pg_19_rating_n_2,1
+"
+"2024-02-28 13:52:55.842540,training_pg_19_rating_p_2,9
+"
+"2024-02-28 13:52:56.274698,training_pg_20,square2
+"
+"2024-02-28 13:52:59.807580,training_pg_20_rating_n_1,1
+"
+"2024-02-28 13:53:01.774189,training_pg_20_rating_p_1,9
+"
+"2024-02-28 13:53:03.156762,training_pg_20_step1_2,time
+"
+"2024-02-28 13:53:06.655637,training_pg_20_step2_2,time
+"
+"2024-02-28 13:53:08.605204,training_pg_20_step3_2,time
+"
+"2024-02-28 13:53:09.488378,coping_train_ng_20end,time
+"
+"2024-02-28 13:53:14.505002,training_pg_20_post-rating_start,time
+"
+"2024-02-28 13:53:17.805166,training_pg_20_rating_n_2,1
+"
+"2024-02-28 13:53:20.654794,training_pg_20_rating_p_2,9
+"
+"2024-02-28 13:53:21.070391,training_end,
+"
+"2024-02-28 13:55:59.023980,ei_instr_1,
+"
+"2024-02-28 13:56:12.535071,ei_01,"Ich wünschte ich könnte ich selbst sein, aber niemand mag mich, wenn ich es bin."
+"
+"2024-02-28 13:56:20.433066,ei_02,Ich bin es Leid es immer weiter zu versuchen.
+"
+"2024-02-28 13:56:28.282569,ei_03,"Auch wenn ich mein Bestes gebe, scheint es nie genug zu sein."
+"
+"2024-02-28 13:56:35.727628,ei_04,Niemand versteht mich oder versucht es überhaupt erst.
+"
+"2024-02-28 13:56:43.462987,ei_05,"Ich glaube nicht, dass es jemals besser werden wird."
+"
+"2024-02-28 13:56:50.938753,ei_06,Ich fühle mich wertlos.
+"
+"2024-02-28 13:56:58.674508,ei_07,"Wenn ich rede, hört niemand wirklich zu."
+"
+"2024-02-28 13:57:06.184574,ei_08,Ich fühle mich vom Leben betrogen.
+"
+"2024-02-28 13:57:13.871163,ei_09,Ich bin vollkommen alleine.
+"
+"2024-02-28 13:57:21.245130,ei_10,Es gibt keine Hoffnung.
+"
+"2024-02-28 13:57:21.247112,ei_rating_start,
+"
+"2024-02-28 13:57:30.043302,ei_rating_n,4
+"
+"2024-02-28 13:57:36.741954,ei_rating_p,6
+"
+"2024-02-28 13:57:36.758219,ei_end,
+"
+"2024-02-28 13:58:25.701121,coping_instr,time
+"
+"2024-02-28 13:59:02.959120,coping_trial_1,time
+"
+"2024-02-28 13:59:25.722673,coping_trial_1_end,time
+"
+"2024-02-28 13:59:29.674076,coping_trial_2,time
+"
+"2024-02-28 13:59:38.940177,coping_trial_2_end,time
+"
+"2024-02-28 13:59:56.401007,coping_base-rating_start,
+"
+"2024-02-28 14:00:00.608142,coping_base-rating_n,1
+"
+"2024-02-28 14:00:03.041854,coping_base-rating_p,9
+"
+"2024-02-28 14:00:03.058098,coping_train_ng_1,square
+"
+"2024-02-28 14:00:08.108854,coping_ng_01_rating_n_1,1
+"
+"2024-02-28 14:00:10.592519,coping_ng_01_rating_p_1,9
+"
+"2024-02-28 14:00:11.675092,coping_train_ng_1_ent_2,time
+"
+"2024-02-28 14:00:14.658133,coping_train_ng_1_ha_2,time
+"
+"2024-02-28 14:00:16.725096,coping_train_ng_1_sv_2,time
+"
+"2024-02-28 14:00:17.675164,coping_train_ng_1end,time
+"
+"2024-02-28 14:00:22.692189,coping_ng_01_post-rating_start,time
+"
+"2024-02-28 14:00:25.408882,coping_ng_01_rating_n_2,1
+"
+"2024-02-28 14:00:29.609539,coping_ng_01_rating_p_2,9
+"
+"2024-02-28 14:00:30.008481,coping_train_ng_2,circle
+"
+"2024-02-28 14:00:34.126447,coping_ng_02_rating_n_1,1
+"
+"2024-02-28 14:00:36.726534,coping_ng_02_rating_p_1,9
+"
+"2024-02-28 14:00:37.708962,coping_train_ng_2_ent_2,time
+"
+"2024-02-28 14:00:39.675587,coping_train_ng_2_ha_2,time
+"
+"2024-02-28 14:00:41.759028,coping_train_ng_2_sv_2,time
+"
+"2024-02-28 14:00:42.642135,coping_train_ng_2end,time
+"
+"2024-02-28 14:00:47.658758,coping_ng_02_post-rating_start,time
+"
+"2024-02-28 14:00:51.857592,coping_ng_02_rating_n_2,1
+"
+"2024-02-28 14:00:55.023703,coping_ng_02_rating_p_2,9
+"
+"2024-02-28 14:00:55.439227,coping_train_ng_3,square
+"
+"2024-02-28 14:01:00.356413,coping_ng_03_rating_n_1,1
+"
+"2024-02-28 14:01:02.672186,coping_ng_03_rating_p_1,9
+"
+"2024-02-28 14:01:04.554679,coping_train_ng_3_ent_2,time
+"
+"2024-02-28 14:01:06.388104,coping_train_ng_3_ha_2,time
+"
+"2024-02-28 14:01:08.204637,coping_train_ng_3_sv_2,time
+"
+"2024-02-28 14:01:09.004540,coping_train_ng_3end,time
+"
+"2024-02-28 14:01:14.021581,coping_ng_03_post-rating_start,time
+"
+"2024-02-28 14:01:16.270840,coping_ng_03_rating_n_2,1
+"
+"2024-02-28 14:01:19.137741,coping_ng_03_rating_p_2,9
+"
+"2024-02-28 14:01:19.569986,coping_train_ng_4,circle
+"
+"2024-02-28 14:01:23.670218,coping_ng_04_rating_n_1,1
+"
+"2024-02-28 14:01:27.137315,coping_ng_04_rating_p_1,9
+"
+"2024-02-28 14:01:28.219682,coping_train_ng_4_ent_2,time
+"
+"2024-02-28 14:01:30.136093,coping_train_ng_4_ha_2,time
+"
+"2024-02-28 14:01:32.302448,coping_train_ng_4_sv_2,time
+"
+"2024-02-28 14:01:33.152394,coping_train_ng_4end,time
+"
+"2024-02-28 14:01:38.169355,coping_ng_04_post-rating_start,time
+"
+"2024-02-28 14:01:41.269021,coping_ng_04_rating_n_2,1
+"
+"2024-02-28 14:01:46.600854,coping_ng_04_rating_p_2,9
+"
+"2024-02-28 14:01:47.000484,coping_train_ng_5,square
+"
+"2024-02-28 14:01:50.501989,coping_ng_05_rating_n_1,1
+"
+"2024-02-28 14:01:52.852157,coping_ng_05_rating_p_1,9
+"
+"2024-02-28 14:01:53.751124,coping_train_ng_5_ent_2,time
+"
+"2024-02-28 14:01:55.701014,coping_train_ng_5_ha_2,time
+"
+"2024-02-28 14:01:58.884342,coping_train_ng_5_sv_2,time
+"
+"2024-02-28 14:01:59.717616,coping_train_ng_5end,time
+"
+"2024-02-28 14:02:04.734123,coping_ng_05_post-rating_start,time
+"
+"2024-02-28 14:02:07.266433,coping_ng_05_rating_n_2,1
+"
+"2024-02-28 14:02:09.366154,coping_ng_05_rating_p_2,9
+"
+"2024-02-28 14:02:09.781784,coping_train_ng_6,triangle
+"
+"2024-02-28 14:02:14.533410,coping_ng_06_rating_n_1,1
+"
+"2024-02-28 14:02:17.533272,coping_ng_06_rating_p_1,9
+"
+"2024-02-28 14:02:18.565749,coping_train_ng_6_ent_2,time
+"
+"2024-02-28 14:02:20.282380,coping_train_ng_6_ha_2,time
+"
+"2024-02-28 14:02:22.532317,coping_train_ng_6_sv_2,time
+"
+"2024-02-28 14:02:23.232615,coping_train_ng_6end,time
+"
+"2024-02-28 14:02:28.249303,coping_ng_06_post-rating_start,time
+"
+"2024-02-28 14:02:30.515816,coping_ng_06_rating_n_2,1
+"
+"2024-02-28 14:02:32.715070,coping_ng_06_rating_p_2,9
+"
+"2024-02-28 14:02:33.147397,coping_train_ng_7,circle
+"
+"2024-02-28 14:02:38.149029,coping_ng_07_rating_n_1,1
+"
+"2024-02-28 14:02:40.098124,coping_ng_07_rating_p_1,9
+"
+"2024-02-28 14:02:41.247208,coping_train_ng_7_ent_2,time
+"
+"2024-02-28 14:02:42.980643,coping_train_ng_7_ha_2,time
+"
+"2024-02-28 14:02:44.647295,coping_train_ng_7_sv_2,time
+"
+"2024-02-28 14:02:45.364002,coping_train_ng_7end,time
+"
+"2024-02-28 14:02:50.380360,coping_ng_07_post-rating_start,time
+"
+"2024-02-28 14:02:52.630090,coping_ng_07_rating_n_2,1
+"
+"2024-02-28 14:02:55.680501,coping_ng_07_rating_p_2,9
+"
+"2024-02-28 14:02:56.112680,coping_train_ng_8,square
+"
+"2024-02-28 14:02:59.483737,coping_ng_08_rating_n_1,1
+"
+"2024-02-28 14:03:02.097787,coping_ng_08_rating_p_1,9
+"
+"2024-02-28 14:03:03.796878,coping_train_ng_8_ent_2,time
+"
+"2024-02-28 14:03:05.680334,coping_train_ng_8_ha_2,time
+"
+"2024-02-28 14:03:07.413737,coping_train_ng_8_sv_2,time
+"
+"2024-02-28 14:03:08.263486,coping_train_ng_8end,time
+"
+"2024-02-28 14:03:13.280771,coping_ng_08_post-rating_start,time
+"
+"2024-02-28 14:03:16.163093,coping_ng_08_rating_n_2,1
+"
+"2024-02-28 14:03:18.278909,coping_ng_08_rating_p_2,9
+"
+"2024-02-28 14:03:18.727752,coping_train_ng_9,square
+"
+"2024-02-28 14:03:21.894448,coping_ng_09_rating_n_1,1
+"
+"2024-02-28 14:03:23.926857,coping_ng_09_rating_p_1,9
+"
+"2024-02-28 14:03:24.759539,coping_train_ng_9_ent_2,time
+"
+"2024-02-28 14:03:26.758910,coping_train_ng_9_ha_2,time
+"
+"2024-02-28 14:03:28.708470,coping_train_ng_9_sv_2,time
+"
+"2024-02-28 14:03:29.458132,coping_train_ng_9end,time
+"
+"2024-02-28 14:03:34.476334,coping_ng_09_post-rating_start,time
+"
+"2024-02-28 14:03:36.891890,coping_ng_09_rating_n_2,1
+"
+"2024-02-28 14:03:39.024364,coping_ng_09_rating_p_2,9
+"
+"2024-02-28 14:03:39.456824,coping_train_ng_10,triangle
+"
+"2024-02-28 14:03:44.322647,coping_ng_10_rating_n_1,1
+"
+"2024-02-28 14:03:46.505234,coping_ng_10_rating_p_1,9
+"
+"2024-02-28 14:03:47.754036,coping_train_ng_10_ent_2,time
+"
+"2024-02-28 14:03:49.486593,coping_train_ng_10_ha_2,time
+"
+"2024-02-28 14:03:52.669095,coping_train_ng_10_sv_2,time
+"
+"2024-02-28 14:03:53.552256,coping_train_ng_10end,time
+"
+"2024-02-28 14:03:58.570050,coping_ng_10_post-rating_start,time
+"
+"2024-02-28 14:04:00.951854,coping_ng_10_rating_n_2,1
+"
+"2024-02-28 14:04:03.017416,coping_ng_10_rating_p_2,9
+"
+"2024-02-28 14:04:03.499433,coping_train_ng_11,triangle
+"
+"2024-02-28 14:04:06.949789,coping_ng_11_rating_n_1,1
+"
+"2024-02-28 14:04:09.149224,coping_ng_11_rating_p_1,9
+"
+"2024-02-28 14:04:10.798369,coping_train_ng_11_ent_2,time
+"
+"2024-02-28 14:04:12.880912,coping_train_ng_11_ha_2,time
+"
+"2024-02-28 14:04:16.897049,coping_train_ng_11_sv_2,time
+"
+"2024-02-28 14:04:17.746977,coping_train_ng_11end,time
+"
+"2024-02-28 14:04:22.764343,coping_ng_11_post-rating_start,time
+"
+"2024-02-28 14:04:24.963693,coping_ng_11_rating_n_2,1
+"
+"2024-02-28 14:04:27.079981,coping_ng_11_rating_p_2,9
+"
+"2024-02-28 14:04:27.528682,coping_train_ng_12,triangle
+"
+"2024-02-28 14:04:30.929298,coping_ng_12_rating_n_1,1
+"
+"2024-02-28 14:04:33.695236,coping_ng_12_rating_p_1,9
+"
+"2024-02-28 14:04:34.878007,coping_train_ng_12_ent_2,time
+"
+"2024-02-28 14:04:36.777544,coping_train_ng_12_ha_2,time
+"
+"2024-02-28 14:04:38.909958,coping_train_ng_12_sv_2,time
+"
+"2024-02-28 14:04:39.809726,coping_train_ng_12end,time
+"
+"2024-02-28 14:04:44.826725,coping_ng_12_post-rating_start,time
+"
+"2024-02-28 14:04:47.809186,coping_ng_12_rating_n_2,1
+"
+"2024-02-28 14:04:50.491838,coping_ng_12_rating_p_2,9
+"
+"2024-02-28 14:04:50.923683,coping_train_ng_13,circle
+"
+"2024-02-28 14:04:54.922990,coping_ng_13_rating_n_1,1
+"
+"2024-02-28 14:04:57.539241,coping_ng_13_rating_p_1,9
+"
+"2024-02-28 14:04:58.755191,coping_train_ng_13_ent_2,time
+"
+"2024-02-28 14:05:01.305068,coping_train_ng_13_ha_2,time
+"
+"2024-02-28 14:05:03.137878,coping_train_ng_13_sv_2,time
+"
+"2024-02-28 14:05:03.887726,coping_train_ng_13end,time
+"
+"2024-02-28 14:05:08.904793,coping_ng_13_post-rating_start,time
+"
+"2024-02-28 14:05:10.970809,coping_ng_13_rating_n_2,1
+"
+"2024-02-28 14:05:13.505135,coping_ng_13_rating_p_2,9
+"
+"2024-02-28 14:05:13.919356,coping_train_ng_14,circle
+"
+"2024-02-28 14:05:17.206398,coping_ng_14_rating_n_1,1
+"
+"2024-02-28 14:05:20.671670,coping_ng_14_rating_p_1,9
+"
+"2024-02-28 14:05:22.420966,coping_train_ng_14_ent_2,time
+"
+"2024-02-28 14:05:24.654128,coping_train_ng_14_ha_2,time
+"
+"2024-02-28 14:05:26.653743,coping_train_ng_14_sv_2,time
+"
+"2024-02-28 14:05:27.437223,coping_train_ng_14end,time
+"
+"2024-02-28 14:05:32.453932,coping_ng_14_post-rating_start,time
+"
+"2024-02-28 14:05:34.436902,coping_ng_14_rating_n_2,1
+"
+"2024-02-28 14:05:37.085474,coping_ng_14_rating_p_2,9
+"
+"2024-02-28 14:05:37.517702,coping_train_ng_15,triangle
+"
+"2024-02-28 14:05:41.485289,coping_ng_15_rating_n_1,1
+"
+"2024-02-28 14:05:44.235175,coping_ng_15_rating_p_1,9
+"
+"2024-02-28 14:05:45.499659,coping_train_ng_15_ent_2,time
+"
+"2024-02-28 14:05:47.365503,coping_train_ng_15_ha_2,time
+"
+"2024-02-28 14:05:50.214020,coping_train_ng_15_sv_2,time
+"
+"2024-02-28 14:05:50.996750,coping_train_ng_15end,time
+"
+"2024-02-28 14:05:56.013786,coping_ng_15_post-rating_start,time
+"
+"2024-02-28 14:05:58.513076,coping_ng_15_rating_n_2,1
+"
+"2024-02-28 14:06:00.829171,coping_ng_15_rating_p_2,9
+"
+"2024-02-28 14:06:01.278037,coping_train_ng_16,square
+"
+"2024-02-28 14:06:04.346229,coping_ng_16_rating_n_1,1
+"
+"2024-02-28 14:06:06.279864,coping_ng_16_rating_p_1,9
+"
+"2024-02-28 14:06:07.646102,coping_train_ng_16_ent_2,time
+"
+"2024-02-28 14:06:09.413108,coping_train_ng_16_ha_2,time
+"
+"2024-02-28 14:06:11.762981,coping_train_ng_16_sv_2,time
+"
+"2024-02-28 14:06:12.529714,coping_train_ng_16end,time
+"
+"2024-02-28 14:06:17.545651,coping_ng_16_post-rating_start,time
+"
+"2024-02-28 14:06:19.712231,coping_ng_16_rating_n_2,1
+"
+"2024-02-28 14:06:23.444881,coping_ng_16_rating_p_2,9
+"
+"2024-02-28 14:06:23.843691,coping_train_ng_17,square
+"
+"2024-02-28 14:06:28.495333,coping_ng_17_rating_n_1,1
+"
+"2024-02-28 14:06:31.162347,coping_ng_17_rating_p_1,9
+"
+"2024-02-28 14:06:32.144975,coping_train_ng_17_ent_2,time
+"
+"2024-02-28 14:06:34.094708,coping_train_ng_17_ha_2,time
+"
+"2024-02-28 14:06:36.061314,coping_train_ng_17_sv_2,time
+"
+"2024-02-28 14:06:36.761526,coping_train_ng_17end,time
+"
+"2024-02-28 14:06:41.777500,coping_ng_17_post-rating_start,time
+"
+"2024-02-28 14:06:43.860579,coping_ng_17_rating_n_2,1
+"
+"2024-02-28 14:06:46.076881,coping_ng_17_rating_p_2,9
+"
+"2024-02-28 14:06:46.509525,coping_train_ng_18,circle
+"
+"2024-02-28 14:06:50.045138,coping_ng_18_rating_n_1,1
+"
+"2024-02-28 14:06:51.995211,coping_ng_18_rating_p_1,9
+"
+"2024-02-28 14:06:53.044868,coping_train_ng_18_ent_2,time
+"
+"2024-02-28 14:06:54.845136,coping_train_ng_18_ha_2,time
+"
+"2024-02-28 14:06:56.562192,coping_train_ng_18_sv_2,time
+"
+"2024-02-28 14:06:57.329074,coping_train_ng_18end,time
+"
+"2024-02-28 14:07:02.344843,coping_ng_18_post-rating_start,time
+"
+"2024-02-28 14:07:04.061423,coping_ng_18_rating_n_2,1
+"
+"2024-02-28 14:07:06.794554,coping_ng_18_rating_p_2,9
+"
+"2024-02-28 14:07:07.210241,coping_train_ng_19,circle
+"
+"2024-02-28 14:07:10.761652,coping_ng_19_rating_n_1,1
+"
+"2024-02-28 14:07:13.044429,coping_ng_19_rating_p_1,9
+"
+"2024-02-28 14:07:14.227050,coping_train_ng_19_ent_2,time
+"
+"2024-02-28 14:07:17.676133,coping_train_ng_19_ha_2,time
+"
+"2024-02-28 14:07:20.458961,coping_train_ng_19_sv_2,time
+"
+"2024-02-28 14:07:21.241908,coping_train_ng_19end,time
+"
+"2024-02-28 14:07:26.258398,coping_ng_19_post-rating_start,time
+"
+"2024-02-28 14:07:28.574488,coping_ng_19_rating_n_2,1
+"
+"2024-02-28 14:07:31.124377,coping_ng_19_rating_p_2,9
+"
+"2024-02-28 14:07:31.539894,coping_train_ng_20,triangle
+"
+"2024-02-28 14:07:34.857717,coping_ng_20_rating_n_1,1
+"
+"2024-02-28 14:07:37.657288,coping_ng_20_rating_p_1,9
+"
+"2024-02-28 14:07:38.589680,coping_train_ng_20_ent_2,time
+"
+"2024-02-28 14:07:40.305908,coping_train_ng_20_ha_2,time
+"
+"2024-02-28 14:07:42.338504,coping_train_ng_20_sv_2,time
+"
+"2024-02-28 14:07:43.104848,coping_train_ng_20end,time
+"
+"2024-02-28 14:07:48.121536,coping_ng_20_post-rating_start,time
+"
+"2024-02-28 14:07:50.954130,coping_ng_20_rating_n_2,1
+"
+"2024-02-28 14:07:53.436764,coping_ng_20_rating_p_2,9
+"
+"2024-02-28 14:07:53.869022,coping_end,
+"
+"

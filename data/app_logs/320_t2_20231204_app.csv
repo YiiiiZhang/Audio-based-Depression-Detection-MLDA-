@@ -1,0 +1,1295 @@
+timestamp,label,content
+"
+"2023-12-04 13:59:03.327177,start_01,
+"
+"2023-12-04 13:59:08.492640,start_02,320
+"
+"2023-12-04 13:59:08.508428,start_03,
+"
+"2023-12-04 14:32:45.997813,lat_instr_01,
+"
+"2023-12-04 14:34:26.770998,lat_rating_n,0
+"
+"2023-12-04 14:34:39.986363,lat_rating_p,10
+"
+"2023-12-04 14:34:40.002690,fixation_01,
+"
+"2023-12-04 14:34:43.007056,stimulus_01,hoffnungslos
+"
+"2023-12-04 14:34:48.014350,lat_rating_start_01,
+"
+"2023-12-04 14:34:59.545012,lat_rating_n_01,0
+"
+"2023-12-04 14:35:12.802874,lat_rating_p_01,10
+"
+"2023-12-04 14:35:12.818628,fixation_02,
+"
+"2023-12-04 14:35:15.822943,stimulus_02,Ich
+"
+"2023-12-04 14:35:20.813500,lat_rating_start_02,
+"
+"2023-12-04 14:35:36.128060,lat_rating_n_02,0
+"
+"2023-12-04 14:35:50.957987,lat_rating_p_02,10
+"
+"2023-12-04 14:35:50.973537,fixation_03,
+"
+"2023-12-04 14:35:53.977811,stimulus_03,hoffnungslos
+"
+"2023-12-04 14:35:58.968793,lat_rating_start_03,
+"
+"2023-12-04 14:36:08.627004,lat_rating_n_03,0
+"
+"2023-12-04 14:36:21.816410,lat_rating_p_03,10
+"
+"2023-12-04 14:36:21.831843,fixation_04,
+"
+"2023-12-04 14:36:24.836672,stimulus_04,die Welt
+"
+"2023-12-04 14:36:29.827981,lat_rating_start_04,
+"
+"2023-12-04 14:36:42.687158,lat_rating_n_04,0
+"
+"2023-12-04 14:36:56.191581,lat_rating_p_04,10
+"
+"2023-12-04 14:36:56.207460,fixation_05,
+"
+"2023-12-04 14:36:59.195265,stimulus_05,Freude
+"
+"2023-12-04 14:37:04.202978,lat_rating_start_05,
+"
+"2023-12-04 14:37:13.458646,lat_rating_n_05,0
+"
+"2023-12-04 14:37:20.826685,lat_rating_p_05,10
+"
+"2023-12-04 14:37:20.842046,fixation_06,
+"
+"2023-12-04 14:37:23.847055,stimulus_06,Ich
+"
+"2023-12-04 14:37:28.839229,lat_rating_start_06,
+"
+"2023-12-04 14:37:38.019903,lat_rating_n_06,0
+"
+"2023-12-04 14:37:47.086030,lat_rating_p_06,10
+"
+"2023-12-04 14:37:47.101713,fixation_07,
+"
+"2023-12-04 14:37:50.106653,stimulus_07,die Welt
+"
+"2023-12-04 14:37:55.097526,lat_rating_start_07,
+"
+"2023-12-04 14:38:05.963144,lat_rating_n_07,0
+"
+"2023-12-04 14:38:13.660336,lat_rating_p_07,10
+"
+"2023-12-04 14:38:13.676111,fixation_08,
+"
+"2023-12-04 14:38:16.681066,stimulus_08,Selfie
+"
+"2023-12-04 14:38:21.680936,lat_rating_start_08,
+"
+"2023-12-04 14:38:33.033321,lat_rating_n_08,0
+"
+"2023-12-04 14:38:42.819368,lat_rating_p_08,10
+"
+"2023-12-04 14:38:42.834803,fixation_09,
+"
+"2023-12-04 14:38:45.839325,stimulus_09,Zukunft
+"
+"2023-12-04 14:38:50.831388,lat_rating_start_09,
+"
+"2023-12-04 14:39:01.298407,lat_rating_n_09,0
+"
+"2023-12-04 14:39:09.365557,lat_rating_p_09,10
+"
+"2023-12-04 14:39:09.381257,fixation_10,
+"
+"2023-12-04 14:39:12.386082,stimulus_10,Selfie
+"
+"2023-12-04 14:39:17.386132,lat_rating_start_10,
+"
+"2023-12-04 14:39:26.505440,lat_rating_n_10,0
+"
+"2023-12-04 14:39:34.155587,lat_rating_p_10,10
+"
+"2023-12-04 14:39:34.171377,fixation_11,
+"
+"2023-12-04 14:39:37.176527,stimulus_11,Zukunft
+"
+"2023-12-04 14:39:42.166337,lat_rating_start_11,
+"
+"2023-12-04 14:39:50.631069,lat_rating_n_11,0
+"
+"2023-12-04 14:39:58.713370,lat_rating_p_11,10
+"
+"2023-12-04 14:39:58.729030,fixation_12,
+"
+"2023-12-04 14:40:01.733980,stimulus_12,Freude
+"
+"2023-12-04 14:40:06.726024,lat_rating_start_12,
+"
+"2023-12-04 14:40:13.174841,lat_rating_n_12,0
+"
+"2023-12-04 14:40:20.972425,lat_rating_p_12,10
+"
+"2023-12-04 14:40:20.988628,lat_end,
+"
+"2023-12-04 14:40:22.641517,ei_instr_1,
+"
+"2023-12-04 14:41:44.417150,ei_01,"Ich wünschte ich könnte ich selbst sein, aber niemand mag mich, wenn ich es bin."
+"
+"2023-12-04 14:41:53.520844,ei_02,Ich bin es Leid es immer weiter zu versuchen.
+"
+"2023-12-04 14:42:04.863814,ei_03,"Auch wenn ich mein Bestes gebe, scheint es nie genug zu sein."
+"
+"2023-12-04 14:42:13.778027,ei_04,Niemand versteht mich oder versucht es überhaupt erst.
+"
+"2023-12-04 14:42:23.736627,ei_05,"Ich glaube nicht, dass es jemals besser werden wird."
+"
+"2023-12-04 14:42:32.126251,ei_06,Ich fühle mich wertlos.
+"
+"2023-12-04 14:42:42.087666,ei_07,"Wenn ich rede, hört niemand wirklich zu."
+"
+"2023-12-04 14:42:52.047804,ei_08,Ich fühle mich vom Leben betrogen.
+"
+"2023-12-04 14:43:01.484370,ei_09,Ich bin vollkommen alleine.
+"
+"2023-12-04 14:43:09.873438,ei_10,Es gibt keine Hoffnung.
+"
+"2023-12-04 14:43:09.875461,ei_rating_start,
+"
+"2023-12-04 14:43:31.186225,ei_rating_n,5
+"
+"2023-12-04 14:43:41.868341,ei_rating_p,9
+"
+"2023-12-04 14:43:41.884320,ei_end,
+"
+"2023-12-04 14:47:08.416461,coping_instr,time
+"
+"2023-12-04 14:49:10.629549,coping_trial_1,time
+"
+"2023-12-04 14:51:22.664617,coping_trial_1_end,time
+"
+"2023-12-04 14:51:30.614197,coping_trial_2,time
+"
+"2023-12-04 14:52:40.625558,coping_trial_2_end,time
+"
+"2023-12-04 14:53:59.099593,coping_base-rating_start,
+"
+"2023-12-04 14:54:07.119807,coping_base-rating_n,0
+"
+"2023-12-04 14:54:18.667122,coping_base-rating_p,10
+"
+"2023-12-04 14:54:18.683272,coping_instr_exercise_1-3,time
+"
+"2023-12-04 14:54:31.546677,coping_ng_01,Ich kann mich auf gar nichts mehr freuen in meinem Leben.
+"
+"2023-12-04 14:54:48.910496,coping_ng_01_pre-rating_start,time
+"
+"2023-12-04 14:55:05.184904,coping_ng_01_rating_n_1,0
+"
+"2023-12-04 14:55:17.513777,coping_ng_01_rating_p_1,10
+"
+"2023-12-04 14:55:17.529460,coping_ng_01_step1_feedback,time
+"
+"2023-12-04 14:55:22.532622,coping_ng_01_step2,time
+"
+"2023-12-04 14:55:43.057742,coping_ng_01_step2_feedback,time
+"
+"2023-12-04 14:55:46.060044,coping_ng_01_step3,time
+"
+"2023-12-04 14:55:59.735231,coping_ng_01_step3_feedback,time
+"
+"2023-12-04 14:56:06.752685,coping_ng_01_post-rating_start,time
+"
+"2023-12-04 14:56:34.056687,coping_ng_01_rating_n_2,1
+"
+"2023-12-04 14:56:47.184071,coping_ng_01_rating_p_2,10
+"
+"2023-12-04 14:56:47.566765,coping_ng_01_end,time
+"
+"2023-12-04 14:56:55.996491,coping_ng_02,Ich falle allen nur zur Last.
+"
+"2023-12-04 14:57:14.541758,coping_ng_02_pre-rating_start,time
+"
+"2023-12-04 14:57:27.174735,coping_ng_02_rating_n_1,1
+"
+"2023-12-04 14:57:38.682939,coping_ng_02_rating_p_1,9
+"
+"2023-12-04 14:57:38.698576,coping_ng_02_step1_feedback,time
+"
+"2023-12-04 14:57:43.703673,coping_ng_02_step2,time
+"
+"2023-12-04 14:58:03.424068,coping_ng_02_step2_feedback,time
+"
+"2023-12-04 14:58:06.427119,coping_ng_02_step3,time
+"
+"2023-12-04 14:58:20.834647,coping_ng_02_step3_feedback,time
+"
+"2023-12-04 14:58:27.846833,coping_ng_02_post-rating_start,time
+"
+"2023-12-04 14:58:46.505671,coping_ng_02_rating_n_2,1
+"
+"2023-12-04 14:59:02.456905,coping_ng_02_rating_p_2,8
+"
+"2023-12-04 14:59:02.872899,coping_ng_02_end,time
+"
+"2023-12-04 14:59:09.381399,coping_ng_03,Mein Leben ist ein totales Desaster.
+"
+"2023-12-04 14:59:27.181732,coping_ng_03_pre-rating_start,time
+"
+"2023-12-04 14:59:42.009038,coping_ng_03_rating_n_1,1
+"
+"2023-12-04 14:59:58.613952,coping_ng_03_rating_p_1,9
+"
+"2023-12-04 14:59:58.629100,coping_ng_03_step1_feedback,time
+"
+"2023-12-04 15:00:03.633583,coping_ng_03_step2,time
+"
+"2023-12-04 15:00:21.709092,coping_ng_03_step2_feedback,time
+"
+"2023-12-04 15:00:24.711837,coping_ng_03_step3,time
+"
+"2023-12-04 15:00:36.536090,coping_ng_03_step3_feedback,time
+"
+"2023-12-04 15:00:43.560186,coping_ng_03_post-rating_start,time
+"
+"2023-12-04 15:01:01.716664,coping_ng_03_rating_n_2,1
+"
+"2023-12-04 15:01:14.648719,coping_ng_03_rating_p_2,9
+"
+"2023-12-04 15:01:15.046980,coping_ng_03_end,time
+"
+"2023-12-04 15:01:22.741522,coping_instr_exercise_4-6,time
+"
+"2023-12-04 15:01:45.401057,coping_ng_04,"Alles, was vor mir liegt, ist absolut furchtbar."
+"
+"2023-12-04 15:02:06.040337,coping_ng_04_pre-rating_start,time
+"
+"2023-12-04 15:02:21.912470,coping_ng_04_rating_n_1,1
+"
+"2023-12-04 15:02:33.191550,coping_ng_04_rating_p_1,8
+"
+"2023-12-04 15:02:33.207831,coping_ng_04_step1_feedback,time
+"
+"2023-12-04 15:02:38.213248,coping_ng_04_step2,time
+"
+"2023-12-04 15:02:54.274375,coping_ng_04_step2_feedback,time
+"
+"2023-12-04 15:02:57.276848,coping_ng_04_step3,time
+"
+"2023-12-04 15:03:07.531175,coping_ng_04_step3_feedback,time
+"
+"2023-12-04 15:03:14.542159,coping_ng_04_post-rating_start,time
+"
+"2023-12-04 15:03:28.244139,coping_ng_04_rating_n_2,1
+"
+"2023-12-04 15:03:45.514919,coping_ng_04_rating_p_2,8
+"
+"2023-12-04 15:03:45.931931,coping_ng_04_end,time
+"
+"2023-12-04 15:03:53.023661,coping_ng_05,Ich bin komplett wertlos.
+"
+"2023-12-04 15:04:08.720702,coping_ng_05_pre-rating_start,time
+"
+"2023-12-04 15:04:27.305177,coping_ng_05_rating_n_1,2
+"
+"2023-12-04 15:04:40.122072,coping_ng_05_rating_p_1,8
+"
+"2023-12-04 15:04:40.137068,coping_ng_05_step1_feedback,time
+"
+"2023-12-04 15:04:45.142029,coping_ng_05_step2,time
+"
+"2023-12-04 15:05:02.197043,coping_ng_05_step2_feedback,time
+"
+"2023-12-04 15:05:05.199736,coping_ng_05_step3,time
+"
+"2023-12-04 15:05:21.069079,coping_ng_05_step3_feedback,time
+"
+"2023-12-04 15:05:28.088775,coping_ng_05_post-rating_start,time
+"
+"2023-12-04 15:05:38.550217,coping_ng_05_rating_n_2,2
+"
+"2023-12-04 15:05:54.034169,coping_ng_05_rating_p_2,8
+"
+"2023-12-04 15:05:54.417154,coping_ng_05_end,time
+"
+"2023-12-04 15:06:02.445356,coping_ng_06,"Wenn ich mal eine Chance bekomme, versaue ich die sofort."
+"
+"2023-12-04 15:06:22.979487,coping_ng_06_pre-rating_start,time
+"
+"2023-12-04 15:06:42.615863,coping_ng_06_rating_n_1,3
+"
+"2023-12-04 15:06:55.395149,coping_ng_06_rating_p_1,8
+"
+"2023-12-04 15:06:55.411555,coping_ng_06_step1_feedback,time
+"
+"2023-12-04 15:07:00.416219,coping_ng_06_step2,time
+"
+"2023-12-04 15:07:18.606037,coping_ng_06_step2_feedback,time
+"
+"2023-12-04 15:07:21.608416,coping_ng_06_step3,time
+"
+"2023-12-04 15:07:31.234354,coping_ng_06_step3_feedback,time
+"
+"2023-12-04 15:07:38.259303,coping_ng_06_post-rating_start,time
+"
+"2023-12-04 15:07:52.359554,coping_ng_06_rating_n_2,3
+"
+"2023-12-04 15:08:01.344075,coping_ng_06_rating_p_2,8
+"
+"2023-12-04 15:08:01.742231,coping_ng_06_end,time
+"
+"2023-12-04 15:08:05.715447,coping_instr_exercise_7-9,time
+"
+"2023-12-04 15:08:16.455060,coping_ng_07,Ich werde es nie schaffen.
+"
+"2023-12-04 15:08:37.671575,coping_ng_07_pre-rating_start,time
+"
+"2023-12-04 15:08:46.648046,coping_ng_07_rating_n_1,3
+"
+"2023-12-04 15:08:57.302171,coping_ng_07_rating_p_1,8
+"
+"2023-12-04 15:08:57.318451,coping_ng_07_step1_feedback,time
+"
+"2023-12-04 15:09:02.322712,coping_ng_07_step2,time
+"
+"2023-12-04 15:09:14.113211,coping_ng_07_step2_feedback,time
+"
+"2023-12-04 15:09:17.115815,coping_ng_07_step3,time
+"
+"2023-12-04 15:09:28.590379,coping_ng_07_step3_feedback,time
+"
+"2023-12-04 15:09:35.607423,coping_ng_07_post-rating_start,time
+"
+"2023-12-04 15:09:45.125461,coping_ng_07_rating_n_2,3
+"
+"2023-12-04 15:09:53.078844,coping_ng_07_rating_p_2,7
+"
+"2023-12-04 15:09:53.478027,coping_ng_07_end,time
+"
+"2023-12-04 15:10:00.021127,coping_ng_08,Ich kann überhaupt nichts.
+"
+"2023-12-04 15:10:16.376278,coping_ng_08_pre-rating_start,time
+"
+"2023-12-04 15:10:33.346849,coping_ng_08_rating_n_1,3
+"
+"2023-12-04 15:10:43.509594,coping_ng_08_rating_p_1,7
+"
+"2023-12-04 15:10:43.524147,coping_ng_08_step1_feedback,time
+"
+"2023-12-04 15:10:48.528324,coping_ng_08_step2,time
+"
+"2023-12-04 15:11:01.489471,coping_ng_08_step2_feedback,time
+"
+"2023-12-04 15:11:04.491960,coping_ng_08_step3,time
+"
+"2023-12-04 15:11:25.015145,coping_ng_08_step3_feedback,time
+"
+"2023-12-04 15:11:32.038986,coping_ng_08_post-rating_start,time
+"
+"2023-12-04 15:11:42.919603,coping_ng_08_rating_n_2,3
+"
+"2023-12-04 15:11:58.280814,coping_ng_08_rating_p_2,7
+"
+"2023-12-04 15:11:58.663931,coping_ng_08_end,time
+"
+"2023-12-04 15:12:05.406628,coping_ng_09,Es gibt absolut keine Hoffnung.
+"
+"2023-12-04 15:12:23.476187,coping_ng_09_pre-rating_start,time
+"
+"2023-12-04 15:12:38.936485,coping_ng_09_rating_n_1,3
+"
+"2023-12-04 15:12:48.515301,coping_ng_09_rating_p_1,7
+"
+"2023-12-04 15:12:48.532103,coping_ng_09_step1_feedback,time
+"
+"2023-12-04 15:12:53.535739,coping_ng_09_step2,time
+"
+"2023-12-04 15:13:10.891777,coping_ng_09_step2_feedback,time
+"
+"2023-12-04 15:13:13.893173,coping_ng_09_step3,time
+"
+"2023-12-04 15:13:28.118867,coping_ng_09_step3_feedback,time
+"
+"2023-12-04 15:13:35.137006,coping_ng_09_post-rating_start,time
+"
+"2023-12-04 15:13:44.551836,coping_ng_09_rating_n_2,3
+"
+"2023-12-04 15:13:54.584437,coping_ng_09_rating_p_2,7
+"
+"2023-12-04 15:13:54.999573,coping_ng_09_end,time
+"
+"2023-12-04 15:13:59.123070,coping_instr_exercise_10-12,time
+"
+"2023-12-04 15:14:11.155242,coping_ng_10,Ich tauge zu absolut gar nichts.
+"
+"2023-12-04 15:14:32.078228,coping_ng_10_pre-rating_start,time
+"
+"2023-12-04 15:14:45.161792,coping_ng_10_rating_n_1,3
+"
+"2023-12-04 15:15:02.139173,coping_ng_10_rating_p_1,7
+"
+"2023-12-04 15:15:02.155625,coping_ng_10_step1_feedback,time
+"
+"2023-12-04 15:15:07.160314,coping_ng_10_step2,time
+"
+"2023-12-04 15:15:20.942260,coping_ng_10_step2_feedback,time
+"
+"2023-12-04 15:15:23.944845,coping_ng_10_step3,time
+"
+"2023-12-04 15:15:32.104326,coping_ng_10_step3_feedback,time
+"
+"2023-12-04 15:15:39.120724,coping_ng_10_post-rating_start,time
+"
+"2023-12-04 15:16:03.710383,coping_ng_10_rating_n_2,3
+"
+"2023-12-04 15:16:13.465632,coping_ng_10_rating_p_2,7
+"
+"2023-12-04 15:16:13.863362,coping_ng_10_end,time
+"
+"2023-12-04 15:16:21.458764,coping_ng_11,Ich verdiene absolut nichts Gutes im Leben.
+"
+"2023-12-04 15:16:45.383512,coping_ng_11_pre-rating_start,time
+"
+"2023-12-04 15:16:56.881208,coping_ng_11_rating_n_1,3
+"
+"2023-12-04 15:17:08.396441,coping_ng_11_rating_p_1,7
+"
+"2023-12-04 15:17:08.413498,coping_ng_11_step1_feedback,time
+"
+"2023-12-04 15:17:13.418797,coping_ng_11_step2,time
+"
+"2023-12-04 15:17:32.259143,coping_ng_11_step2_feedback,time
+"
+"2023-12-04 15:17:35.262088,coping_ng_11_step3,time
+"
+"2023-12-04 15:17:41.421886,coping_ng_11_step3_feedback,time
+"
+"2023-12-04 15:17:48.434261,coping_ng_11_post-rating_start,time
+"
+"2023-12-04 15:18:05.602220,coping_ng_11_rating_n_2,3
+"
+"2023-12-04 15:18:18.447271,coping_ng_11_rating_p_2,8
+"
+"2023-12-04 15:18:18.928622,coping_ng_11_end,time
+"
+"2023-12-04 15:18:24.198520,coping_ng_12,Absolut niemand interessiert sich für mich.
+"
+"2023-12-04 15:18:41.839866,coping_ng_12_pre-rating_start,time
+"
+"2023-12-04 15:18:57.139731,coping_ng_12_rating_n_1,3
+"
+"2023-12-04 15:19:06.954551,coping_ng_12_rating_p_1,7
+"
+"2023-12-04 15:19:06.970469,coping_ng_12_step1_feedback,time
+"
+"2023-12-04 15:19:11.974050,coping_ng_12_step2,time
+"
+"2023-12-04 15:19:27.981439,coping_ng_12_step2_feedback,time
+"
+"2023-12-04 15:19:30.983510,coping_ng_12_step3,time
+"
+"2023-12-04 15:19:37.328843,coping_ng_12_step3_feedback,time
+"
+"2023-12-04 15:19:44.352002,coping_ng_12_post-rating_start,time
+"
+"2023-12-04 15:19:57.547671,coping_ng_12_rating_n_2,2
+"
+"2023-12-04 15:20:07.614473,coping_ng_12_rating_p_2,8
+"
+"2023-12-04 15:20:08.129233,coping_ng_12_end,time
+"
+"2023-12-04 15:20:11.835512,coping_instr_exercise_13-15,time
+"
+"2023-12-04 15:20:23.689249,coping_ng_13,"Ich werde im Leben nie das bekommen, was ich mir wünsche."
+"
+"2023-12-04 15:20:40.642265,coping_ng_13_pre-rating_start,time
+"
+"2023-12-04 15:20:55.549896,coping_ng_13_rating_n_1,2
+"
+"2023-12-04 15:21:09.974446,coping_ng_13_rating_p_1,7
+"
+"2023-12-04 15:21:09.990384,coping_ng_13_step1_feedback,time
+"
+"2023-12-04 15:21:14.994317,coping_ng_13_step2,time
+"
+"2023-12-04 15:21:26.784910,coping_ng_13_step2_feedback,time
+"
+"2023-12-04 15:21:29.787293,coping_ng_13_step3,time
+"
+"2023-12-04 15:21:34.932218,coping_ng_13_step3_feedback,time
+"
+"2023-12-04 15:21:41.954177,coping_ng_13_post-rating_start,time
+"
+"2023-12-04 15:21:51.396856,coping_ng_13_rating_n_2,1
+"
+"2023-12-04 15:21:59.332894,coping_ng_13_rating_p_2,8
+"
+"2023-12-04 15:21:59.349072,coping_ng_13_end,time
+"
+"2023-12-04 15:22:04.090376,coping_ng_14,"Ich habe absolut keinen Grund, hoffnungsvoll in die Zukunft zu blicken."
+"
+"2023-12-04 15:22:24.965739,coping_ng_14_pre-rating_start,time
+"
+"2023-12-04 15:22:37.466048,coping_ng_14_rating_n_1,3
+"
+"2023-12-04 15:22:49.443012,coping_ng_14_rating_p_1,7
+"
+"2023-12-04 15:22:49.458882,coping_ng_14_step1_feedback,time
+"
+"2023-12-04 15:22:54.463752,coping_ng_14_step2,time
+"
+"2023-12-04 15:23:13.328997,coping_ng_14_step2_feedback,time
+"
+"2023-12-04 15:23:16.331556,coping_ng_14_step3,time
+"
+"2023-12-04 15:23:21.190836,coping_ng_14_step3_feedback,time
+"
+"2023-12-04 15:23:28.207876,coping_ng_14_post-rating_start,time
+"
+"2023-12-04 15:23:36.944182,coping_ng_14_rating_n_2,2
+"
+"2023-12-04 15:23:45.553701,coping_ng_14_rating_p_2,7
+"
+"2023-12-04 15:23:46.618668,coping_ng_14_end,time
+"
+"2023-12-04 15:23:50.591397,coping_ng_15,Ich versage bei allem was ich mache
+"
+"2023-12-04 15:24:09.843320,coping_ng_15_pre-rating_start,time
+"
+"2023-12-04 15:24:20.397625,coping_ng_15_rating_n_1,2
+"
+"2023-12-04 15:24:29.057824,coping_ng_15_rating_p_1,7
+"
+"2023-12-04 15:24:29.074063,coping_ng_15_step1_feedback,time
+"
+"2023-12-04 15:24:34.077238,coping_ng_15_step2,time
+"
+"2023-12-04 15:24:47.211126,coping_ng_15_step2_feedback,time
+"
+"2023-12-04 15:24:50.213475,coping_ng_15_step3,time
+"
+"2023-12-04 15:24:58.340586,coping_ng_15_step3_feedback,time
+"
+"2023-12-04 15:25:05.362311,coping_ng_15_post-rating_start,time
+"
+"2023-12-04 15:25:19.114735,coping_ng_15_rating_n_2,2
+"
+"2023-12-04 15:25:28.693019,coping_ng_15_rating_p_2,7
+"
+"2023-12-04 15:25:29.726329,coping_ng_15_end,time
+"
+"2023-12-04 15:25:35.452526,coping_instr_exercise_16-18,time
+"
+"2023-12-04 15:25:45.189333,coping_ng_16,Ich bekomme überhaupt keine Chance im Leben.
+"
+"2023-12-04 15:26:09.356790,coping_ng_16_pre-rating_start,time
+"
+"2023-12-04 15:26:20.750218,coping_ng_16_rating_n_1,3
+"
+"2023-12-04 15:26:34.380095,coping_ng_16_rating_p_1,7
+"
+"2023-12-04 15:26:34.395876,coping_ng_16_step1_feedback,time
+"
+"2023-12-04 15:26:39.400578,coping_ng_16_step2,time
+"
+"2023-12-04 15:26:51.565379,coping_ng_16_step2_feedback,time
+"
+"2023-12-04 15:26:54.567599,coping_ng_16_step3,time
+"
+"2023-12-04 15:27:01.785515,coping_ng_16_step3_feedback,time
+"
+"2023-12-04 15:27:08.806023,coping_ng_16_post-rating_start,time
+"
+"2023-12-04 15:27:20.671588,coping_ng_16_rating_n_2,2
+"
+"2023-12-04 15:27:31.366202,coping_ng_16_rating_p_2,7
+"
+"2023-12-04 15:27:32.432546,coping_ng_16_end,time
+"
+"2023-12-04 15:27:36.388888,coping_ng_17,Ich werde immer nur Probleme haben.
+"
+"2023-12-04 15:27:57.355155,coping_ng_17_pre-rating_start,time
+"
+"2023-12-04 15:28:09.388067,coping_ng_17_rating_n_1,3
+"
+"2023-12-04 15:28:21.010590,coping_ng_17_rating_p_1,7
+"
+"2023-12-04 15:28:21.026727,coping_ng_17_step1_feedback,time
+"
+"2023-12-04 15:28:26.032594,coping_ng_17_step2,time
+"
+"2023-12-04 15:28:39.824305,coping_ng_17_step2_feedback,time
+"
+"2023-12-04 15:28:42.827185,coping_ng_17_step3,time
+"
+"2023-12-04 15:28:50.830867,coping_ng_17_step3_feedback,time
+"
+"2023-12-04 15:28:57.844939,coping_ng_17_post-rating_start,time
+"
+"2023-12-04 15:29:08.508506,coping_ng_17_rating_n_2,2
+"
+"2023-12-04 15:29:16.007983,coping_ng_17_rating_p_2,8
+"
+"2023-12-04 15:29:17.073208,coping_ng_17_end,time
+"
+"2023-12-04 15:29:22.109109,coping_ng_18,Mir passiert absolut nur Schlechtes.
+"
+"2023-12-04 15:29:39.187525,coping_ng_18_pre-rating_start,time
+"
+"2023-12-04 15:29:55.070698,coping_ng_18_rating_n_1,2
+"
+"2023-12-04 15:30:08.977254,coping_ng_18_rating_p_1,6
+"
+"2023-12-04 15:30:08.993143,coping_ng_18_step1_feedback,time
+"
+"2023-12-04 15:30:14.003075,coping_ng_18_step2,time
+"
+"2023-12-04 15:30:27.856913,coping_ng_18_step2_feedback,time
+"
+"2023-12-04 15:30:30.860535,coping_ng_18_step3,time
+"
+"2023-12-04 15:30:39.417764,coping_ng_18_step3_feedback,time
+"
+"2023-12-04 15:30:46.434571,coping_ng_18_post-rating_start,time
+"
+"2023-12-04 15:31:09.253458,coping_ng_18_rating_n_2,2
+"
+"2023-12-04 15:31:21.929185,coping_ng_18_rating_p_2,7
+"
+"2023-12-04 15:31:22.995009,coping_ng_18_end,time
+"
+"2023-12-04 15:31:27.369624,coping_instr_exercise_19-21,time
+"
+"2023-12-04 15:31:38.326867,coping_ng_19,Alles ist sinnlos.
+"
+"2023-12-04 15:31:52.797319,coping_ng_19_pre-rating_start,time
+"
+"2023-12-04 15:32:09.135768,coping_ng_19_rating_n_1,2
+"
+"2023-12-04 15:32:18.631699,coping_ng_19_rating_p_1,7
+"
+"2023-12-04 15:32:18.647630,coping_ng_19_step1_feedback,time
+"
+"2023-12-04 15:32:23.653065,coping_ng_19_step2,time
+"
+"2023-12-04 15:32:38.462294,coping_ng_19_step2_feedback,time
+"
+"2023-12-04 15:32:41.464897,coping_ng_19_step3,time
+"
+"2023-12-04 15:32:50.506131,coping_ng_19_step3_feedback,time
+"
+"2023-12-04 15:32:57.526699,coping_ng_19_post-rating_start,time
+"
+"2023-12-04 15:33:04.283069,coping_ng_19_rating_n_2,1
+"
+"2023-12-04 15:33:10.838091,coping_ng_19_rating_p_2,9
+"
+"2023-12-04 15:33:11.921054,coping_ng_19_end,time
+"
+"2023-12-04 15:33:16.093942,coping_ng_20,Ich bin überhaupt nicht liebenswert.
+"
+"2023-12-04 15:33:31.367225,coping_ng_20_pre-rating_start,time
+"
+"2023-12-04 15:33:43.793419,coping_ng_20_rating_n_1,2
+"
+"2023-12-04 15:33:52.348865,coping_ng_20_rating_p_1,8
+"
+"2023-12-04 15:33:52.364970,coping_ng_20_step1_feedback,time
+"
+"2023-12-04 15:33:57.370009,coping_ng_20_step2,time
+"
+"2023-12-04 15:34:09.110022,coping_ng_20_step2_feedback,time
+"
+"2023-12-04 15:34:12.111846,coping_ng_20_step3,time
+"
+"2023-12-04 15:34:19.874500,coping_ng_20_step3_feedback,time
+"
+"2023-12-04 15:34:26.892991,coping_ng_20_post-rating_start,time
+"
+"2023-12-04 15:34:38.441084,coping_ng_20_rating_n_2,0
+"
+"2023-12-04 15:34:44.979906,coping_ng_20_rating_p_2,10
+"
+"2023-12-04 15:34:46.080211,coping_ng_20_end,time
+"
+"2023-12-04 15:38:18.148337,ei_instr_1,
+"
+"2023-12-04 15:38:49.600974,ei_01,"Ich wünschte ich könnte ich selbst sein, aber niemand mag mich, wenn ich es bin."
+"
+"2023-12-04 15:38:58.147140,ei_02,Ich bin es Leid es immer weiter zu versuchen.
+"
+"2023-12-04 15:39:06.902720,ei_03,"Auch wenn ich mein Bestes gebe, scheint es nie genug zu sein."
+"
+"2023-12-04 15:39:15.814923,ei_04,Niemand versteht mich oder versucht es überhaupt erst.
+"
+"2023-12-04 15:39:25.823581,ei_05,"Ich glaube nicht, dass es jemals besser werden wird."
+"
+"2023-12-04 15:39:34.691728,ei_06,Ich fühle mich wertlos.
+"
+"2023-12-04 15:39:44.124502,ei_07,"Wenn ich rede, hört niemand wirklich zu."
+"
+"2023-12-04 15:39:52.646544,ei_08,Ich fühle mich vom Leben betrogen.
+"
+"2023-12-04 15:40:01.425642,ei_09,Ich bin vollkommen alleine.
+"
+"2023-12-04 15:40:09.911146,ei_10,Es gibt keine Hoffnung.
+"
+"2023-12-04 15:40:09.912557,ei_rating_start,
+"
+"2023-12-04 15:40:22.272218,ei_rating_n,2
+"
+"2023-12-04 15:40:33.817188,ei_rating_p,9
+"
+"2023-12-04 15:40:33.833015,ei_end,
+"
+"2023-12-04 15:42:45.531316,training_start,time
+"
+"2023-12-04 15:44:58.193014,training_trial_1,
+"
+"2023-12-04 15:46:24.444569,training_trial_1_end,time
+"
+"2023-12-04 15:46:30.588134,training_trial_2,
+"
+"2023-12-04 15:47:29.705570,training_trial_2_end,time
+"
+"2023-12-04 15:47:43.341852,training_base-rating_start,
+"
+"2023-12-04 15:47:52.036992,training_base-rating_n,0
+"
+"2023-12-04 15:47:57.978704,training_base-rating_p,10
+"
+"2023-12-04 15:47:57.994011,training_instr_exercise_1-3,time
+"
+"2023-12-04 15:48:07.322654,training_pg_01,"Ich kann lernen, Unveränderbares zu akzeptieren!"
+"
+"2023-12-04 15:48:24.587853,training_pg_1_pre-rating_start,time
+"
+"2023-12-04 15:48:37.615831,training_pg_01_rating_n_1,0
+"
+"2023-12-04 15:48:44.239459,training_pg_01_rating_p_1,10
+"
+"2023-12-04 15:48:44.254385,training_pg_1_step1_feedback,time
+"
+"2023-12-04 15:48:47.258038,training_pg_1_step2,time
+"
+"2023-12-04 15:49:04.156087,training_pg_1_step2_feedback,time
+"
+"2023-12-04 15:49:07.157901,training_pg_1_step3,time
+"
+"2023-12-04 15:49:16.702079,training_pg_1_step3_feedback,time
+"
+"2023-12-04 15:49:26.719032,training_pg_01_post-rating_start,time
+"
+"2023-12-04 15:49:37.563164,training_pg_01_rating_n_2,0
+"
+"2023-12-04 15:49:44.119420,training_pg_01_rating_p_2,10
+"
+"2023-12-04 15:49:44.534617,training_pg_1_end,time
+"
+"2023-12-04 15:49:50.176952,training_pg_02,"Ich habe die Kraft, Dinge zu verändern!"
+"
+"2023-12-04 15:50:06.070993,training_pg_2_pre-rating_start,time
+"
+"2023-12-04 15:50:12.226973,training_pg_02_rating_n_1,0
+"
+"2023-12-04 15:50:20.969604,training_pg_02_rating_p_1,10
+"
+"2023-12-04 15:50:20.985554,training_pg_2_step1_feedback,time
+"
+"2023-12-04 15:50:23.990890,training_pg_2_step2,time
+"
+"2023-12-04 15:50:41.805187,training_pg_2_step2_feedback,time
+"
+"2023-12-04 15:50:44.809451,training_pg_2_step3,time
+"
+"2023-12-04 15:50:56.789758,training_pg_2_step3_feedback,time
+"
+"2023-12-04 15:51:06.815749,training_pg_02_post-rating_start,time
+"
+"2023-12-04 15:51:14.524261,training_pg_02_rating_n_2,0
+"
+"2023-12-04 15:51:24.931205,training_pg_02_rating_p_2,9
+"
+"2023-12-04 15:51:25.347923,training_pg_2_end,time
+"
+"2023-12-04 15:51:30.689521,training_pg_03,Nach Regen kommt Sonnenschein!
+"
+"2023-12-04 15:51:45.019575,training_pg_3_pre-rating_start,time
+"
+"2023-12-04 15:51:51.299377,training_pg_03_rating_n_1,0
+"
+"2023-12-04 15:51:56.503836,training_pg_03_rating_p_1,10
+"
+"2023-12-04 15:51:56.520481,training_pg_3_step1_feedback,time
+"
+"2023-12-04 15:51:59.525776,training_pg_3_step2,time
+"
+"2023-12-04 15:52:13.906244,training_pg_3_step2_feedback,time
+"
+"2023-12-04 15:52:16.908267,training_pg_3_step3,time
+"
+"2023-12-04 15:52:27.770342,training_pg_3_step3_feedback,time
+"
+"2023-12-04 15:52:37.780214,training_pg_03_post-rating_start,time
+"
+"2023-12-04 15:52:45.107047,training_pg_03_rating_n_2,0
+"
+"2023-12-04 15:52:52.115939,training_pg_03_rating_p_2,10
+"
+"2023-12-04 15:52:52.581243,training_pg_3_end,time
+"
+"2023-12-04 15:52:56.752728,training_instr_exercise_4-6,time
+"
+"2023-12-04 15:53:05.196945,training_pg_04,Ich werde weiter mein Bestes geben!
+"
+"2023-12-04 15:53:22.011651,training_pg_4_pre-rating_start,time
+"
+"2023-12-04 15:53:32.101259,training_pg_04_rating_n_1,1
+"
+"2023-12-04 15:53:45.216109,training_pg_04_rating_p_1,9
+"
+"2023-12-04 15:53:45.232125,training_pg_4_step1_feedback,time
+"
+"2023-12-04 15:53:48.237430,training_pg_4_step2,time
+"
+"2023-12-04 15:54:05.265364,training_pg_4_step2_feedback,time
+"
+"2023-12-04 15:54:08.266414,training_pg_4_step3,time
+"
+"2023-12-04 15:54:19.977149,training_pg_4_step3_feedback,time
+"
+"2023-12-04 15:54:29.991103,training_pg_04_post-rating_start,time
+"
+"2023-12-04 15:54:38.066704,training_pg_04_rating_n_2,0
+"
+"2023-12-04 15:54:49.579978,training_pg_04_rating_p_2,9
+"
+"2023-12-04 15:54:50.063216,training_pg_4_end,time
+"
+"2023-12-04 15:54:58.338914,training_pg_05,"Ich bin ein wertvoller Mensch, so wie ich bin!"
+"
+"2023-12-04 15:55:14.214555,training_pg_5_pre-rating_start,time
+"
+"2023-12-04 15:55:20.984528,training_pg_05_rating_n_1,0
+"
+"2023-12-04 15:55:27.325173,training_pg_05_rating_p_1,10
+"
+"2023-12-04 15:55:27.340921,training_pg_5_step1_feedback,time
+"
+"2023-12-04 15:55:30.346778,training_pg_5_step2,time
+"
+"2023-12-04 15:55:50.578273,training_pg_5_step2_feedback,time
+"
+"2023-12-04 15:55:53.581741,training_pg_5_step3,time
+"
+"2023-12-04 15:56:03.123136,training_pg_5_step3_feedback,time
+"
+"2023-12-04 15:56:13.141842,training_pg_05_post-rating_start,time
+"
+"2023-12-04 15:56:21.639060,training_pg_05_rating_n_2,0
+"
+"2023-12-04 15:56:27.761502,training_pg_05_rating_p_2,10
+"
+"2023-12-04 15:56:28.211461,training_pg_5_end,time
+"
+"2023-12-04 16:00:40.894087,training_pg_06,Es kommen auch wieder bessere Zeiten!
+"
+"2023-12-04 16:00:55.040955,training_pg_6_pre-rating_start,time
+"
+"2023-12-04 16:01:10.432853,training_pg_06_rating_n_1,0
+"
+"2023-12-04 16:01:19.393140,training_pg_06_rating_p_1,8
+"
+"2023-12-04 16:01:19.409780,training_pg_6_step1_feedback,time
+"
+"2023-12-04 16:01:22.415651,training_pg_6_step2,time
+"
+"2023-12-04 16:01:38.057633,training_pg_6_step2_feedback,time
+"
+"2023-12-04 16:01:41.061962,training_pg_6_step3,time
+"
+"2023-12-04 16:01:49.855831,training_pg_6_step3_feedback,time
+"
+"2023-12-04 16:01:59.882942,training_pg_06_post-rating_start,time
+"
+"2023-12-04 16:02:11.562057,training_pg_06_rating_n_2,0
+"
+"2023-12-04 16:02:19.705990,training_pg_06_rating_p_2,9
+"
+"2023-12-04 16:02:20.155793,training_pg_6_end,time
+"
+"2023-12-04 16:02:23.193797,training_instr_exercise_7-9,time
+"
+"2023-12-04 16:02:40.431999,training_pg_07,Ich kann für Vieles dankbar sein!
+"
+"2023-12-04 16:02:55.066455,training_pg_7_pre-rating_start,time
+"
+"2023-12-04 16:02:59.675881,training_pg_07_rating_n_1,0
+"
+"2023-12-04 16:03:05.249239,training_pg_07_rating_p_1,10
+"
+"2023-12-04 16:03:05.265433,training_pg_7_step1_feedback,time
+"
+"2023-12-04 16:03:08.269249,training_pg_7_step2,time
+"
+"2023-12-04 16:03:26.868857,training_pg_7_step2_feedback,time
+"
+"2023-12-04 16:03:29.871548,training_pg_7_step3,time
+"
+"2023-12-04 16:03:42.346740,training_pg_7_step3_feedback,time
+"
+"2023-12-04 16:03:52.364179,training_pg_07_post-rating_start,time
+"
+"2023-12-04 16:03:58.171514,training_pg_07_rating_n_2,0
+"
+"2023-12-04 16:04:05.296107,training_pg_07_rating_p_2,9
+"
+"2023-12-04 16:04:05.312083,training_pg_7_end,time
+"
+"2023-12-04 16:04:10.402550,training_pg_08,Ich habe viele gute Eigenschaften!
+"
+"2023-12-04 16:04:22.084888,training_pg_8_pre-rating_start,time
+"
+"2023-12-04 16:04:30.698721,training_pg_08_rating_n_1,0
+"
+"2023-12-04 16:04:36.455002,training_pg_08_rating_p_1,10
+"
+"2023-12-04 16:04:36.470488,training_pg_8_step1_feedback,time
+"
+"2023-12-04 16:04:39.476700,training_pg_8_step2,time
+"
+"2023-12-04 16:04:54.321676,training_pg_8_step2_feedback,time
+"
+"2023-12-04 16:04:57.324187,training_pg_8_step3,time
+"
+"2023-12-04 16:05:08.743589,training_pg_8_step3_feedback,time
+"
+"2023-12-04 16:05:18.768618,training_pg_08_post-rating_start,time
+"
+"2023-12-04 16:05:24.760161,training_pg_08_rating_n_2,0
+"
+"2023-12-04 16:05:32.936749,training_pg_08_rating_p_2,10
+"
+"2023-12-04 16:05:33.986290,training_pg_8_end,time
+"
+"2023-12-04 16:05:38.875962,training_pg_09,Chancen kann ich mir erarbeiten.
+"
+"2023-12-04 16:05:54.884191,training_pg_9_pre-rating_start,time
+"
+"2023-12-04 16:06:07.568324,training_pg_09_rating_n_1,0
+"
+"2023-12-04 16:06:11.762472,training_pg_09_rating_p_1,8
+"
+"2023-12-04 16:06:11.778588,training_pg_9_step1_feedback,time
+"
+"2023-12-04 16:06:14.786848,training_pg_9_step2,time
+"
+"2023-12-04 16:06:30.573978,training_pg_9_step2_feedback,time
+"
+"2023-12-04 16:06:33.577179,training_pg_9_step3,time
+"
+"2023-12-04 16:06:45.093202,training_pg_9_step3_feedback,time
+"
+"2023-12-04 16:06:55.111425,training_pg_09_post-rating_start,time
+"
+"2023-12-04 16:07:00.101860,training_pg_09_rating_n_2,0
+"
+"2023-12-04 16:07:11.646608,training_pg_09_rating_p_2,9
+"
+"2023-12-04 16:07:12.029690,training_pg_9_end,time
+"
+"2023-12-04 16:07:15.770403,training_instr_exercise_10-12,time
+"
+"2023-12-04 16:07:24.965260,training_pg_10,Es gibt viel Schönes in der Welt!
+"
+"2023-12-04 16:07:40.841796,training_pg_10_pre-rating_start,time
+"
+"2023-12-04 16:07:45.142511,training_pg_10_rating_n_1,0
+"
+"2023-12-04 16:07:51.163058,training_pg_10_rating_p_1,10
+"
+"2023-12-04 16:07:51.176828,training_pg_10_step1_feedback,time
+"
+"2023-12-04 16:07:54.180612,training_pg_10_step2,time
+"
+"2023-12-04 16:08:08.250016,training_pg_10_step2_feedback,time
+"
+"2023-12-04 16:08:11.251807,training_pg_10_step3,time
+"
+"2023-12-04 16:08:15.747968,training_pg_10_step3_feedback,time
+"
+"2023-12-04 16:08:25.761098,training_pg_10_post-rating_start,time
+"
+"2023-12-04 16:08:30.860426,training_pg_10_rating_n_2,1
+"
+"2023-12-04 16:08:40.952386,training_pg_10_rating_p_2,10
+"
+"2023-12-04 16:08:41.350611,training_pg_10_end,time
+"
+"2023-12-04 16:09:36.784928,training_pg_11,"Was mich nicht umbringt, macht mich nur stärker!"
+"
+"2023-12-04 16:09:50.334515,training_pg_11_pre-rating_start,time
+"
+"2023-12-04 16:09:58.516379,training_pg_11_rating_n_1,0
+"
+"2023-12-04 16:10:03.757863,training_pg_11_rating_p_1,10
+"
+"2023-12-04 16:10:03.772334,training_pg_11_step1_feedback,time
+"
+"2023-12-04 16:10:06.777277,training_pg_11_step2,time
+"
+"2023-12-04 16:10:21.389406,training_pg_11_step2_feedback,time
+"
+"2023-12-04 16:10:24.391493,training_pg_11_step3,time
+"
+"2023-12-04 16:10:30.369175,training_pg_11_step3_feedback,time
+"
+"2023-12-04 16:10:40.394810,training_pg_11_post-rating_start,time
+"
+"2023-12-04 16:11:03.084514,training_pg_11_rating_n_2,0
+"
+"2023-12-04 16:11:08.674706,training_pg_11_rating_p_2,10
+"
+"2023-12-04 16:11:09.090719,training_pg_11_end,time
+"
+"2023-12-04 16:11:17.118868,training_pg_12,"Meinem Leben einen Sinn zu geben ist eine Aufgabe, die ich täglich neu angehen kann."
+"
+"2023-12-04 16:11:36.881489,training_pg_12_pre-rating_start,time
+"
+"2023-12-04 16:11:42.171773,training_pg_12_rating_n_1,0
+"
+"2023-12-04 16:11:49.238873,training_pg_12_rating_p_1,10
+"
+"2023-12-04 16:11:49.254683,training_pg_12_step1_feedback,time
+"
+"2023-12-04 16:11:52.259977,training_pg_12_step2,time
+"
+"2023-12-04 16:12:12.022891,training_pg_12_step2_feedback,time
+"
+"2023-12-04 16:12:15.025379,training_pg_12_step3,time
+"
+"2023-12-04 16:12:25.004232,training_pg_12_step3_feedback,time
+"
+"2023-12-04 16:12:35.030245,training_pg_12_post-rating_start,time
+"
+"2023-12-04 16:12:58.050621,training_pg_12_rating_n_2,0
+"
+"2023-12-04 16:13:03.406915,training_pg_12_rating_p_2,10
+"
+"2023-12-04 16:13:03.772689,training_pg_12_end,time
+"
+"2023-12-04 16:13:09.081721,training_instr_exercise_13-15,time
+"
+"2023-12-04 16:13:19.905041,training_pg_13,"Es ist normal, dass im Leben auch manchmal Dinge nicht so laufen wie gehofft."
+"
+"2023-12-04 16:13:39.446613,training_pg_13_pre-rating_start,time
+"
+"2023-12-04 16:13:49.125052,training_pg_13_rating_n_1,1
+"
+"2023-12-04 16:13:55.515489,training_pg_13_rating_p_1,9
+"
+"2023-12-04 16:13:55.531324,training_pg_13_step1_feedback,time
+"
+"2023-12-04 16:13:58.535694,training_pg_13_step2,time
+"
+"2023-12-04 16:14:18.775159,training_pg_13_step2_feedback,time
+"
+"2023-12-04 16:14:21.777256,training_pg_13_step3,time
+"
+"2023-12-04 16:14:29.255031,training_pg_13_step3_feedback,time
+"
+"2023-12-04 16:14:39.278699,training_pg_13_post-rating_start,time
+"
+"2023-12-04 16:14:45.765677,training_pg_13_rating_n_2,0
+"
+"2023-12-04 16:14:53.051684,training_pg_13_rating_p_2,10
+"
+"2023-12-04 16:14:53.417256,training_pg_13_end,time
+"
+"2023-12-04 16:14:58.475516,training_pg_14,Ich kann was!
+"
+"2023-12-04 16:15:12.357409,training_pg_14_pre-rating_start,time
+"
+"2023-12-04 16:15:17.246124,training_pg_14_rating_n_1,1
+"
+"2023-12-04 16:15:23.746088,training_pg_14_rating_p_1,10
+"
+"2023-12-04 16:15:23.761493,training_pg_14_step1_feedback,time
+"
+"2023-12-04 16:15:26.765524,training_pg_14_step2,time
+"
+"2023-12-04 16:15:40.279977,training_pg_14_step2_feedback,time
+"
+"2023-12-04 16:15:43.282474,training_pg_14_step3,time
+"
+"2023-12-04 16:15:47.527123,training_pg_14_step3_feedback,time
+"
+"2023-12-04 16:15:57.549303,training_pg_14_post-rating_start,time
+"
+"2023-12-04 16:16:02.619907,training_pg_14_rating_n_2,0
+"
+"2023-12-04 16:16:10.288330,training_pg_14_rating_p_2,10
+"
+"2023-12-04 16:16:10.670985,training_pg_14_end,time
+"
+"2023-12-04 16:16:14.510798,training_pg_15,"Ich darf auch mal von einer Situation überfordert sein, das ist ganz normal."
+"
+"2023-12-04 16:16:32.595699,training_pg_15_pre-rating_start,time
+"
+"2023-12-04 16:16:41.672028,training_pg_15_rating_n_1,1
+"
+"2023-12-04 16:16:46.522347,training_pg_15_rating_p_1,9
+"
+"2023-12-04 16:16:46.538763,training_pg_15_step1_feedback,time
+"
+"2023-12-04 16:16:49.546525,training_pg_15_step2,time
+"
+"2023-12-04 16:17:07.587927,training_pg_15_step2_feedback,time
+"
+"2023-12-04 16:17:10.590412,training_pg_15_step3,time
+"
+"2023-12-04 16:17:17.025875,training_pg_15_step3_feedback,time
+"
+"2023-12-04 16:17:27.045109,training_pg_15_post-rating_start,time
+"
+"2023-12-04 16:17:31.218885,training_pg_15_rating_n_2,0
+"
+"2023-12-04 16:17:37.426014,training_pg_15_rating_p_2,10
+"
+"2023-12-04 16:17:37.792065,training_pg_15_end,time
+"
+"2023-12-04 16:17:40.629566,training_instr_exercise_16-18,time
+"
+"2023-12-04 16:17:47.870852,training_pg_16,An Problemen kann ich wachsen.
+"
+"2023-12-04 16:18:02.667257,training_pg_16_pre-rating_start,time
+"
+"2023-12-04 16:18:14.324617,training_pg_16_rating_n_1,1
+"
+"2023-12-04 16:18:21.483600,training_pg_16_rating_p_1,9
+"
+"2023-12-04 16:18:21.499354,training_pg_16_step1_feedback,time
+"
+"2023-12-04 16:18:24.504921,training_pg_16_step2,time
+"
+"2023-12-04 16:18:44.300832,training_pg_16_step2_feedback,time
+"
+"2023-12-04 16:18:47.305945,training_pg_16_step3,time
+"
+"2023-12-04 16:18:52.829918,training_pg_16_step3_feedback,time
+"
+"2023-12-04 16:19:02.843934,training_pg_16_post-rating_start,time
+"
+"2023-12-04 16:19:08.000684,training_pg_16_rating_n_2,0
+"
+"2023-12-04 16:19:11.920713,training_pg_16_rating_p_2,10
+"
+"2023-12-04 16:19:12.303485,training_pg_16_end,time
+"
+"2023-12-04 16:19:16.410161,training_pg_17,Ich kann mir selbst helfen!
+"
+"2023-12-04 16:19:30.201135,training_pg_17_pre-rating_start,time
+"
+"2023-12-04 16:19:44.683326,training_pg_17_rating_n_1,0
+"
+"2023-12-04 16:19:57.915754,training_pg_17_rating_p_1,9
+"
+"2023-12-04 16:19:57.931956,training_pg_17_step1_feedback,time
+"
+"2023-12-04 16:20:00.934549,training_pg_17_step2,time
+"
+"2023-12-04 16:20:16.983201,training_pg_17_step2_feedback,time
+"
+"2023-12-04 16:20:19.985792,training_pg_17_step3,time
+"
+"2023-12-04 16:20:26.816931,training_pg_17_step3_feedback,time
+"
+"2023-12-04 16:20:36.835446,training_pg_17_post-rating_start,time
+"
+"2023-12-04 16:20:41.307132,training_pg_17_rating_n_2,0
+"
+"2023-12-04 16:20:45.810865,training_pg_17_rating_p_2,10
+"
+"2023-12-04 16:20:46.193015,training_pg_17_end,time
+"
+"2023-12-04 16:20:50.967348,training_pg_18,Ich darf auch mal zur Last fallen.
+"
+"2023-12-04 16:21:06.663241,training_pg_18_pre-rating_start,time
+"
+"2023-12-04 16:21:14.619540,training_pg_18_rating_n_1,0
+"
+"2023-12-04 16:21:20.475472,training_pg_18_rating_p_1,10
+"
+"2023-12-04 16:21:20.491675,training_pg_18_step1_feedback,time
+"
+"2023-12-04 16:21:23.497040,training_pg_18_step2,time
+"
+"2023-12-04 16:21:38.988901,training_pg_18_step2_feedback,time
+"
+"2023-12-04 16:21:41.991254,training_pg_18_step3,time
+"
+"2023-12-04 16:21:48.900817,training_pg_18_step3_feedback,time
+"
+"2023-12-04 16:21:58.919129,training_pg_18_post-rating_start,time
+"
+"2023-12-04 16:22:07.497198,training_pg_18_rating_n_2,0
+"
+"2023-12-04 16:22:11.234673,training_pg_18_rating_p_2,10
+"
+"2023-12-04 16:22:11.634475,training_pg_18_end,time
+"
+"2023-12-04 16:22:18.045095,training_instr_exercise_19-21,time
+"
+"2023-12-04 16:22:24.848901,training_pg_19,"Wenn ich es beim ersten Anlauf nicht schaffe, dann eben beim zweiten oder dritten."
+"
+"2023-12-04 16:22:39.468267,training_pg_19_pre-rating_start,time
+"
+"2023-12-04 16:22:45.376055,training_pg_19_rating_n_1,0
+"
+"2023-12-04 16:22:53.958939,training_pg_19_rating_p_1,10
+"
+"2023-12-04 16:22:53.975147,training_pg_19_step1_feedback,time
+"
+"2023-12-04 16:22:56.981676,training_pg_19_step2,time
+"
+"2023-12-04 16:23:14.154022,training_pg_19_step2_feedback,time
+"
+"2023-12-04 16:23:17.155650,training_pg_19_step3,time
+"
+"2023-12-04 16:23:28.931566,training_pg_19_step3_feedback,time
+"
+"2023-12-04 16:23:38.966060,training_pg_19_post-rating_start,time
+"
+"2023-12-04 16:23:43.699130,training_pg_19_rating_n_2,0
+"
+"2023-12-04 16:23:53.441101,training_pg_19_rating_p_2,10
+"
+"2023-12-04 16:23:53.890553,training_pg_19_end,time
+"
+"2023-12-04 16:24:01.251930,training_pg_20,Ich schaffe das!
+"
+"2023-12-04 16:24:11.745223,training_pg_20_pre-rating_start,time
+"
+"2023-12-04 16:24:16.123481,training_pg_20_rating_n_1,0
+"
+"2023-12-04 16:24:21.346541,training_pg_20_rating_p_1,10
+"
+"2023-12-04 16:24:21.362892,training_pg_20_step1_feedback,time
+"
+"2023-12-04 16:24:24.366242,training_pg_20_step2,time
+"
+"2023-12-04 16:24:36.895692,training_pg_20_step2_feedback,time
+"
+"2023-12-04 16:24:39.897915,training_pg_20_step3,time
+"
+"2023-12-04 16:24:49.053198,training_pg_20_step3_feedback,time
+"
+"2023-12-04 16:24:59.070353,training_pg_20_post-rating_start,time
+"
+"2023-12-04 16:25:03.638933,training_pg_20_rating_n_2,0
+"
+"2023-12-04 16:25:07.141511,training_pg_20_rating_p_2,10
+"
+"
