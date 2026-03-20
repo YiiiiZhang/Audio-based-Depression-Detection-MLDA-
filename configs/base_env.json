@@ -2,5 +2,6 @@
     "RAW_VIDEO_DIR":"/home/vault/empkins/tpD/D02/RCT/raw_data",
     "EXTRACTED_AUDIO_DIR":"/home/woody/iwso/iwso192h/MLDA/oringinal_data",
     "TRANSCRIPTION_DIR":"/home/woody/iwso/iwso192h/MLDA/Transcription_result",
-    "FINAL_AUDIO_DIR":"/home/woody/iwso/iwso192h/MLDA/extracted_data_test"
+    "FINAL_AUDIO_DIR":"/home/woody/iwso/iwso192h/MLDA/extracted_data_test",
+    "LOGS_DIR":"./data/app_logs"
 }

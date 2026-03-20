@@ -37,7 +37,7 @@ data = read_json(data_path)
 # 2. Setup dictionaries and helper variables
 # ==========================================================
 # Dictionary mapping user IDs to their app log files for Ei processing
-rp_app_logs = './data/app_logs'
+rp_app_logs = BASE_CONFIG.get('LOGS_DIR')
 app_file_list = os.listdir(rp_app_logs)
 app_dict = {fo.split('_')[0]: os.path.join(rp_app_logs, fo) for fo in app_file_list}
 
